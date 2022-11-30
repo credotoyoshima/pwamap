@@ -1,8 +1,8 @@
 {
-  "title": "クレドPWAマップ",
+  "title": "Credo Map",
   "description": "",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://credotoyoshima.github.io/pwamap/a59nn-w21k6.svg",
   "background_image_url": "https://credotoyoshima.github.io/pwamap/kobe.jpg",
   "primary_color": "#d2691e",
   "orderby": "distance"
