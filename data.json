@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1082",
+  "range": "'スポットデータ'!A1:J1079",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -16,7 +16,7 @@
     ],
     [
       "",
-      "空室",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.771374",
       "135.379623",
@@ -25,16 +25,7 @@
     ],
     [
       "",
-      "空予定",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.751633",
-      "135.392166",
-      "サンプルマンション　202",
-      "12/1依頼\n12月末空き予定"
-    ],
-    [
-      "",
-      "空室",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758183",
       "135.389389",
@@ -43,7 +34,7 @@
     ],
     [
       "",
-      "空室",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.750881",
       "135.408493",
@@ -52,25 +43,7 @@
     ],
     [
       "",
-      "完成前",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.719296",
-      "135.245667",
-      "ジュネス六甲.ANNEX　305.306.603",
-      "新築　2月完成予定 １月中旬には撮影に行けるかも\nhttps://drive.google.com/file/d/1wFfqXsnbzuaKZtoGBZp6QdH-zF3rHgG8/view"
-    ],
-    [
-      "",
-      "空予定",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747135",
-      "135.396088",
-      "アートスクエア",
-      "12月末 退去\nhttps://drive.google.com/file/d/1wBKqs-oXJxZpD4roLyQdjN7aGhTIbIlS/view"
-    ],
-    [
-      "",
-      "空室",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.686958",
       "135.180939",
@@ -79,7 +52,7 @@
     ],
     [
       "",
-      "完了",
+      "業者",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.695541",
       "135.19632",
