@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1078",
+  "range": "'スポットデータ'!A1:J1077",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -315,59 +315,91 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス尼崎西浦公園Ⅲ番館　102"
+      "34.757294",
+      "135.449997",
+      "フジパレス尼崎西浦公園Ⅲ番館　102",
+      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1A2LjaQg_U9FecN6g_NSw2MDLz5bcFsWZ&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
       "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.753887",
+      "135.453171",
+      "フジパレス冨田公園　205",
+      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1AHLV9_lJ2so0_2hhYk7Xk9LucLU7clCZ&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
       "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.750847",
+      "135.415329",
+      "エヌ・ビレッジ　401",
+      "株式会社エンパワー　06-6777-8588"
     ],
     [
       "",
       "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.758865",
+      "135.397705",
+      "シェリール武庫　101､204",
+      "株式会社　アズ・スタット\nAL:呼6217　部屋:ダイヤル4146\nhttps://drive.google.com/open?id=1AHrPI3h6W9SN4bK7914y0m5dkjsS_y9r&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.750084",
+      "135.413254",
+      "南塚口コーポ",
+      "グローバルコミュニティ株式会社\nhttps://drive.google.com/open?id=1AZNFJQtrzk6zF8xmMQMkuql1sq_oUu_U&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.754688",
+      "135.381287",
+      "エスポワール武庫之荘北５",
+      "株式会社長谷工ライブネット 関西支社\nhttps://drive.google.com/open?id=1A_sFm9QgZchlW-wHt06JsS6zFsK-t4Ce&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ＳＴヴィラ塚口　401",
+      "Aoiエステート合同会社　06-6435-8558\nhttps://drive.google.com/open?id=1Ab9D-62TGuLF0TpMfAS4Tdvjg4h5oT1i&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.758251",
+      "135.447571",
+      "フジパレス園田　101",
+      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1AevO5Pqv4R6DPiC4FjBDOtbFefLlMqoe&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.749832",
+      "135.416702",
+      "ＦＬＡＴＳ塚口　105",
+      "株式会社　アズ・スタット\nAL　呼1234部屋:1F(1F鍵)・2F(2・3F鍵)階段手すりにキーバンカー　4146もしくはダイヤル4146\r"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.752205",
+      "135.420441",
+      "プレシード　B401",
+      "株式会社　アズ・スタット\t\r\nAL:呼5005・部屋:ダイヤル4146"
     ],
     [
       "",
