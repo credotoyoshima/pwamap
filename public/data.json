@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1074",
+  "range": "'スポットデータ'!A1:J1072",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -85,15 +85,6 @@
       "135.398514",
       "ブランTAT尼崎七松町I　1001",
       "外観＋共用＋室内\nカギ：賃貸住宅サービス立花店　06-6416-4146\nhttps://drive.google.com/open?id=11VnBS_byJkC6NkE39_GRIqys1rdbStZy&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.744461",
-      "135.38591",
-      "SAサイレンス　305",
-      "株式会社アンドランド　06-6615-8890\nhttps://drive.google.com/open?id=17t_XIAgreokSBuJiiELAEm-eXIFUWCWk&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -265,15 +256,6 @@
       "135.418549",
       "ラフォーレ塚口　101､202",
       "株式会社ケイツーエステート　06-6304-4400"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741154",
-      "135.399887",
-      "フジパレス立花駅北　305",
-      "オートロック呼0570/R101パイプスペース2480\nhttps://drive.google.com/open?id=19l-eDRDW_q7tKjueCmnSTWFxSDWBSycC&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
