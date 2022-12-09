@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1063",
+  "range": "'スポットデータ'!A1:J1061",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -16,21 +16,21 @@
     ],
     [
       "",
-      "写真撮影",
+      "業者",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758183",
-      "135.389389",
-      "アイリープラザ武庫之荘 202",
-      "日本住宅流通　HPで鍵確認\nhttps://drive.google.com/file/d/1yM_GV_rTm9-TTSxleXzJYR490-OkO_h-/view"
+      "34.695541",
+      "135.19632",
+      "C-House三宮店",
+      "株式会社クレドの三宮店です。"
     ],
     [
       "",
-      "撮影完了",
+      "業者",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.750881",
-      "135.408493",
-      "クオーレ塚口　104",
-      "ガスメーターにキーボックス　5508\nhttps://drive.google.com/file/d/1zUyrmEm1MQCcDEHsoh3-S2NhKuBbxfWw/view"
+      "34.751633",
+      "135.392166",
+      "C-House武庫之荘店",
+      "株式会社クレドの武庫之荘店です。"
     ],
     [
       "",
@@ -43,30 +43,12 @@
     ],
     [
       "",
-      "業者",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.695541",
-      "135.19632",
-      "C-House三宮店",
-      "株式会社クレドの三宮店です。"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.734844",
-      "135.398514",
-      "ブランTAT尼崎七松町I　1001､901",
-      "外観＋共用＋室内\nカギ：賃貸住宅サービス立花店　06-6416-4146\nhttps://drive.google.com/open?id=11VnBS_byJkC6NkE39_GRIqys1rdbStZy&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.735981",
       "135.374603",
       "オクト甲子園口　102",
-      "旭化成"
+      "旭化成\nダ:1106"
     ],
     [
       "",
@@ -75,7 +57,7 @@
       "34.756172",
       "135.412415",
       "ウィズ塚口　202",
-      "有限会社アーサホーム　080-4012-4798\nhttps://drive.google.com/open?id=182_ZBglSV-XLqCa0hClxoXm6HNDhfK8q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "有限会社アーサホーム　080-4012-4798\n現地水道メーター\nhttps://drive.google.com/open?id=182_ZBglSV-XLqCa0hClxoXm6HNDhfK8q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -93,7 +75,7 @@
       "34.755535",
       "135.449921",
       "東園田ハイツ　202",
-      "パナソニックホームズ不動産株式会社　神戸営業所\nhttps://drive.google.com/open?id=18Axl0tQ78mVZtwh6xdaF78ASljG48ZRh&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "パナソニックホームズ不動産株式会社　神戸営業所\nガスメーター1658\nhttps://drive.google.com/open?id=18Axl0tQ78mVZtwh6xdaF78ASljG48ZRh&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -101,8 +83,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748016",
       "135.396942",
-      "エスポワール武庫之荘Ⅱ　101",
-      "株式会社長谷工ライブネット　関西支社\nhttps://drive.google.com/open?id=18EPZ6BNMpCOahzFiJa82AsMgee2yg18x&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "エスポワール武庫之荘Ⅱ　101　105",
+      "AL:呼0033　ダ:4087\nhttps://drive.google.com/open?id=18EPZ6BNMpCOahzFiJa82AsMgee2yg18x&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -119,8 +101,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.753983",
       "135.417145",
-      "エルスタンザ塚口本町　104",
-      "大和リビング株式会社\nhttps://drive.google.com/open?id=18QSEEp6TUbQ-Mb60VhMTdzJTuQrSbYtP&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "エルスタンザ塚口本町　101 　104",
+      "AL:呼1050　PSにキーボックス有　ダ:3672\nhttps://drive.google.com/open?id=18QSEEp6TUbQ-Mb60VhMTdzJTuQrSbYtP&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -138,7 +120,7 @@
       "34.756268",
       "135.448624",
       "リブレメゾン園田　203",
-      "株式会社エストコーポレーション　0798-69-1248\nhttps://drive.google.com/open?id=18jGXcRxK95z7C96pkJvK8elVmhjKlzJg&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "玄関横メーターボックス　ダ:1027\nhttps://drive.google.com/open?id=18jGXcRxK95z7C96pkJvK8elVmhjKlzJg&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -147,7 +129,7 @@
       "",
       "",
       "アート尼崎若王寺　4部屋",
-      "12月完成　103.202.302.303→掲載中\n株式会社ゆたか不動産　06-7897-8974\nhttps://drive.google.com/open?id=18y6KSgogutQkT9SlijQP1KMvceBFJ5Zf&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "12月完成　103.202.302.303→掲載中\nAL:呼2525　部屋オープン\nhttps://drive.google.com/open?id=18y6KSgogutQkT9SlijQP1KMvceBFJ5Zf&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -155,8 +137,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.749088",
       "135.453293",
-      "プティ・ブラン東園田　102､202",
-      "大東建託\nhttps://drive.google.com/open?id=196RPrXP_LBxNMpiZH0zeLQGk91OrdXkC&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "プティ・ブラン東園田　102､201､202",
+      "AL:呼0029\n102→ダ:2921\n201→ダ:2911\n202→ダ:2921\nhttps://drive.google.com/open?id=196RPrXP_LBxNMpiZH0zeLQGk91OrdXkC&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -165,7 +147,7 @@
       "34.757294",
       "135.449997",
       "フジパレス尼崎西浦公園Ⅰ番館 　302",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=19D_SfJBstwS_RETeiSwlhilTMiy-bk-Q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "ｵｰﾄﾛｯｸ呼0570/南京錠5524\nhttps://drive.google.com/open?id=19D_SfJBstwS_RETeiSwlhilTMiy-bk-Q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -174,7 +156,7 @@
       "34.751743",
       "135.424255",
       "キューブ東塚口　805",
-      "有限会社アーサーホーム　080-4012-4798"
+      "有限会社アーサーホーム　080-4012-4798\nAL:呼7953　鍵現地水道メーター"
     ],
     [
       "",
