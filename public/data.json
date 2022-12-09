@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1061",
+  "range": "'スポットデータ'!A1:J1053",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -90,15 +90,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749695",
-      "135.3992",
-      "メゾン富松　205",
-      "アパルトマンエージェント株式会社　PM事業部\nカギ：部屋・ダイヤル錠・5508\nhttps://drive.google.com/open?id=18EkUXQNQ3I0UYJEM_q97So64DKZ7XCLl&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.753983",
       "135.417145",
       "エルスタンザ塚口本町　101 　104",
@@ -164,8 +155,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758331",
       "135.418549",
-      "ラフォーレ塚口　101､202",
-      "株式会社ケイツーエステート　06-6304-4400"
+      "ラフォーレ塚口　303",
+      "現地ダイアル:3300\nhttps://drive.google.com/open?id=1-z9aITQmSmEazC6pItqyHaLvCbxksNHI&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -174,7 +165,7 @@
       "34.74807",
       "135.452103",
       "フジパレス東園田　202",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=19noGC_IAW7TWO8gsupMrUfWCMakPQn3b&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "ｵｰﾄﾛｯｸ＃3184/南京錠5524\nhttps://drive.google.com/open?id=19noGC_IAW7TWO8gsupMrUfWCMakPQn3b&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -182,26 +173,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.74807",
       "135.452103",
-      "フジパレス阪急園田駅東Ⅲ番館　102",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=19xONZzK-NW2kicb_Lj2RoOI_yQmGJBi-&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.757294",
-      "135.449997",
-      "フジパレス尼崎西浦公園Ⅲ番館　102",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1A2LjaQg_U9FecN6g_NSw2MDLz5bcFsWZ&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753887",
-      "135.453171",
-      "フジパレス冨田公園　205",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1AHLV9_lJ2so0_2hhYk7Xk9LucLU7clCZ&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "フジパレス阪急園田駅東Ⅲ番館　102､103",
+      "ｵｰﾄﾛｯｸ呼0570/R101ﾊﾟｲﾌﾟｽﾍﾟｰｽ2480\nhttps://drive.google.com/open?id=19xONZzK-NW2kicb_Lj2RoOI_yQmGJBi-&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -210,7 +183,7 @@
       "34.750847",
       "135.415329",
       "エヌ・ビレッジ　401",
-      "株式会社エンパワー　06-6777-8588"
+      "株式会社エンパワー　06-6777-8588\nダ:2050 or 2040"
     ],
     [
       "",
@@ -225,46 +198,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.750084",
-      "135.413254",
-      "南塚口コーポ　201",
-      "グローバルコミュニティ株式会社\nhttps://drive.google.com/open?id=1AZNFJQtrzk6zF8xmMQMkuql1sq_oUu_U&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.754688",
-      "135.381287",
-      "エスポワール武庫之荘北５　301",
-      "株式会社長谷工ライブネット 関西支社\nhttps://drive.google.com/open?id=1A_sFm9QgZchlW-wHt06JsS6zFsK-t4Ce&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.759796",
-      "135.408859",
-      "ＳＴヴィラ塚口　401",
-      "Aoiエステート合同会社　06-6435-8558\nhttps://drive.google.com/open?id=1Ab9D-62TGuLF0TpMfAS4Tdvjg4h5oT1i&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758251",
       "135.447571",
       "フジパレス園田　101",
-      "フジ・アメニティサービス株式会社\nhttps://drive.google.com/open?id=1AevO5Pqv4R6DPiC4FjBDOtbFefLlMqoe&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749832",
-      "135.416702",
-      "ＦＬＡＴＳ塚口　105",
-      "株式会社　アズ・スタット\nAL　呼1234部屋:1F(1F鍵)・2F(2・3F鍵)階段手すりにキーバンカー　4146もしくはダイヤル4146\r"
+      "ｵｰﾄﾛｯｸ＃0570/南京錠5524\nhttps://drive.google.com/open?id=1AevO5Pqv4R6DPiC4FjBDOtbFefLlMqoe&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -328,15 +265,6 @@
       "135.449326",
       "サンパレス21東園田　201",
       "生和アメニティ株式会社　06-6442-7010\nキーボックス「5963」\nhttps://drive.google.com/open?id=1rkYPHV8s8viUXQ0wgz9HID2umJ68MeRP&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75383",
-      "135.393692",
-      "ノースウィング　501",
-      " オートロック(エントランス樋キーボックス（0874）\n 玄関1(エントランス樋キーボックス（0874）\nhttps://drive.google.com/open?id=1tjysyRaeXw6ay9oe5y7riIH8iJGzsfDc&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
