@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1048",
+  "range": "'スポットデータ'!A1:J1046",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -162,28 +162,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758865",
-      "135.397705",
-      "シェリール武庫　101､204",
-      "株式会社　アズ・スタット\nAL:呼6217　部屋:ダイヤル4146\nhttps://drive.google.com/open?id=1AHrPI3h6W9SN4bK7914y0m5dkjsS_y9r&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758251",
       "135.447571",
       "フジパレス園田　101",
       "ｵｰﾄﾛｯｸ＃0570/南京錠5524\nhttps://drive.google.com/open?id=1AevO5Pqv4R6DPiC4FjBDOtbFefLlMqoe&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752205",
-      "135.420441",
-      "プレシード　B401",
-      "株式会社　アズ・スタット\t\r\nAL:呼5005・部屋:ダイヤル4146"
     ],
     [
       "",
