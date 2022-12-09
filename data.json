@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1053",
+  "range": "'スポットデータ'!A1:J1048",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -52,15 +52,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756172",
-      "135.412415",
-      "ウィズ塚口　202",
-      "有限会社アーサホーム　080-4012-4798\n現地水道メーター\nhttps://drive.google.com/open?id=182_ZBglSV-XLqCa0hClxoXm6HNDhfK8q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.751408",
@@ -76,15 +67,6 @@
       "135.449921",
       "東園田ハイツ　202",
       "パナソニックホームズ不動産株式会社　神戸営業所\nガスメーター1658\nhttps://drive.google.com/open?id=18Axl0tQ78mVZtwh6xdaF78ASljG48ZRh&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.748016",
-      "135.396942",
-      "エスポワール武庫之荘Ⅱ　101　105",
-      "AL:呼0033　ダ:4087\nhttps://drive.google.com/open?id=18EPZ6BNMpCOahzFiJa82AsMgee2yg18x&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -148,15 +130,6 @@
       "135.424255",
       "キューブ東塚口　805",
       "有限会社アーサーホーム　080-4012-4798\nAL:呼7953　鍵現地水道メーター"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758331",
-      "135.418549",
-      "ラフォーレ塚口　303",
-      "現地ダイアル:3300\nhttps://drive.google.com/open?id=1-z9aITQmSmEazC6pItqyHaLvCbxksNHI&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -232,15 +205,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.730965",
-      "135.430115",
-      "エヌイーワールド尼崎　201",
-      "シティライフステーション株式会社　078-882-0243\nhttps://drive.google.com/open?id=12o-zAVgTY_4OEVOgJfDSsRZa510Qz_40&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.713615",
@@ -301,15 +265,6 @@
       "135.28157",
       "クレシェンド岡本　203、205",
       "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "ライズワン阪急園田　103",
-      "12月6日退去\n現地ダイアル:6627\nhttps://drive.google.com/open?id=17_zK_4fLdFnc3IvVz_4qshK2hhL2uNW2&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
