@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1046",
+  "range": "'スポットデータ'!A1:J1045",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -49,15 +49,6 @@
       "135.374603",
       "オクト甲子園口　102",
       "旭化成\nダ:1106"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.751408",
-      "135.447113",
-      "(仮)東園田9丁目マンション",
-      "現地外観（工事中）+パノラマ\nhttps://drive.google.com/open?id=182hhkEYC21nw2bAD7wMh-pogRNG4xVfL&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
