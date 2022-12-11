@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1031",
+  "range": "'スポットデータ'!A1:J1030",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -90,8 +90,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.713615",
-      "135.215256",
+      "",
+      "",
       "メゾン王子公園　201",
       "旭化成\nAL 呼4123　ダイヤル1129or1106"
     ],
@@ -117,8 +117,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.722233",
-      "135.404846",
+      "",
+      "",
       "クリエオーレ神田中通２　202",
       "クラセルホーム株式会社　06-6170-8065\nカギ現地\nhttps://drive.google.com/open?id=1wcid8qb_rgBK4TAIcF_6aYO15LPYckXL&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -198,8 +198,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.663628",
-      "135.167648",
+      "",
+      "",
       "マツバラハイツ　103",
       "株式会社ハウスプロメイン 三宮営業所　078-222-0868\nhttps://drive.google.com/open?id=1l7izPh0LZ-vmEdmpG867FoCqE4thtqNg&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -207,8 +207,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75983",
-      "135.389664",
+      "",
+      "",
       "ラムール武庫之荘　305",
       "エルスイッチ株式会社　大阪本店0663209099\nドアノブ　ｷｰﾎﾞｯｸｽ1210\nhttps://drive.google.com/file/d/18ZkyUC9zR7y4Boa2v18gFSFaE5RgK8d8/view"
     ],
@@ -216,8 +216,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749088",
-      "135.453293",
+      "",
+      "",
       "プティ・ブラン東園田 102",
       "AL：呼0029　　ダイヤル：2911"
     ],
@@ -225,8 +225,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758411",
-      "135.3853",
+      "",
+      "",
       "グレスト元町 301",
       "玄関窓柵KB5508"
     ],
@@ -252,8 +252,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.741287",
+      "135.399033",
       "ひらこうパート１　507",
       "AL：呼5963　現地ダイヤル：5508"
     ],
@@ -273,14 +273,6 @@
       "",
       "クリエオーレ神田中通２　202",
       "窓にキーボックス：8065"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75983",
-      "135.389664",
-      "ラムール武庫之荘壱番館　305"
     ],
     [
       "",
@@ -312,8 +304,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.748558",
-      "135.384323",
+      "",
+      "",
       "アクティモリノブ　406",
       "エイワーク武南"
     ],
@@ -339,8 +331,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752583",
-      "135.422791",
+      "",
+      "",
       "プチ塚口　303",
       "AL:4192　　現地水道メータ"
     ],
@@ -348,8 +340,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752583",
-      "135.422791",
+      "",
+      "",
       "プチ塚口　304",
       "AL:4192　　現地水道メータ"
     ],
@@ -368,8 +360,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "ベルメゾン六甲　1階　2階",
-      "原田ビルディング　06-6568-9542"
+      "サンハウス王子公園　204"
     ],
     [
       "",
