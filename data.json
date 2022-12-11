@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1045",
+  "range": "'スポットデータ'!A1:J1034",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -52,24 +52,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "東園田ハイツ　202",
-      "パナソニックホームズ不動産株式会社　神戸営業所\nガスメーター1658\nhttps://drive.google.com/open?id=18Axl0tQ78mVZtwh6xdaF78ASljG48ZRh&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753983",
-      "135.417145",
-      "エルスタンザ塚口本町　101 　104",
-      "AL:呼1050　PSにキーボックス有　ダ:3672\nhttps://drive.google.com/open?id=18QSEEp6TUbQ-Mb60VhMTdzJTuQrSbYtP&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -79,75 +61,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756268",
-      "135.448624",
-      "リブレメゾン園田　203",
-      "玄関横メーターボックス　ダ:1027\nhttps://drive.google.com/open?id=18jGXcRxK95z7C96pkJvK8elVmhjKlzJg&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "アート尼崎若王寺　4部屋",
       "12月完成　103.202.302.303→掲載中\nAL:呼2525　部屋オープン\nhttps://drive.google.com/open?id=18y6KSgogutQkT9SlijQP1KMvceBFJ5Zf&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プティ・ブラン東園田　201､202",
-      "AL:呼0029\n102→ダ:2921\n201→ダ:2911\n202→ダ:2921\nhttps://drive.google.com/open?id=196RPrXP_LBxNMpiZH0zeLQGk91OrdXkC&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.757294",
-      "135.449997",
-      "フジパレス尼崎西浦公園Ⅰ番館 　302",
-      "ｵｰﾄﾛｯｸ呼0570/南京錠5524\nhttps://drive.google.com/open?id=19D_SfJBstwS_RETeiSwlhilTMiy-bk-Q&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "キューブ東塚口　805",
-      "有限会社アーサーホーム　080-4012-4798\nAL:呼7953　鍵現地水道メーター"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス東園田　202",
-      "ｵｰﾄﾛｯｸ＃3184/南京錠5524\nhttps://drive.google.com/open?id=19noGC_IAW7TWO8gsupMrUfWCMakPQn3b&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス阪急園田駅東Ⅲ番館　102､103",
-      "ｵｰﾄﾛｯｸ呼0570/R101ﾊﾟｲﾌﾟｽﾍﾟｰｽ2480\nhttps://drive.google.com/open?id=19xONZzK-NW2kicb_Lj2RoOI_yQmGJBi-&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.750847",
-      "135.415329",
-      "エヌ・ビレッジ　401",
-      "株式会社エンパワー　06-6777-8588\nダ:2050 or 2040"
     ],
     [
       "",
@@ -193,15 +112,6 @@
       "",
       "リジエール　ドゥ　ヴィラージュ　102",
       "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749775",
-      "135.449326",
-      "サンパレス21東園田　201",
-      "生和アメニティ株式会社　06-6442-7010\nキーボックス「5963」\nhttps://drive.google.com/open?id=1rkYPHV8s8viUXQ0wgz9HID2umJ68MeRP&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -322,15 +232,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.722099",
-      "135.410187",
-      "JIN2　203",
-      "東建コーポレーション　ホームメイト宝塚支店0797821550\nオートロック横　きーBOX1550\nhttps://drive.google.com/file/d/18lthYCLt2DpbjevIYubAsOv3briFob8v/view"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.75983",
@@ -349,7 +250,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
