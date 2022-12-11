@@ -45,8 +45,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.735981",
-      "135.374603",
+      "",
+      "",
       "オクト甲子園口　102",
       "旭化成\nダ:1106"
     ],
@@ -54,8 +54,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.760315",
-      "135.393112",
+      "",
+      "",
       "武庫之荘本町2丁目戸建",
       "アパルトマンエージェント株式会社PM事業部\n鍵:シャッター東側柵KB5508\nhttps://drive.google.com/open?id=18YNwGAEvxwzPCdo1kCG98APN3zv0uMAq&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -72,8 +72,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747231",
-      "135.387558",
+      "",
+      "",
       "バッハレジデンス　502･202",
       "玄関前　1658\nhttps://drive.google.com/open?id=1Kc79MB2XmlE-7hmlp8xrVGbnz8NCC58J&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -99,8 +99,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.646282",
-      "135.128418",
+      "",
+      "",
       "リジエール　ドゥ　ヴィラージュ　102",
       "旭化成\nAL 呼4123　ダイヤル1129or1106"
     ],
@@ -108,8 +108,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753189",
-      "135.384705",
+      "",
+      "",
       "マヨ武庫之荘　201",
       "有限会社アーサホーム　080-4012-4798\nカギ：エイワーク　06-6437-2020\nhttps://drive.google.com/open?id=1_arB-R7vPGL-P9bKyh94j6WlVoZsTi6j&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -135,8 +135,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.72995",
-      "135.28157",
+      "",
+      "",
       "クレシェンド岡本　203、205",
       "旭化成\nAL 呼4123　ダイヤル1129or1106"
     ],
@@ -144,8 +144,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.654472",
-      "135.147934",
+      "",
+      "",
       "エクセルメゾンⅡ　201",
       "旭化成・新築\nAL 呼4123　ダイヤル1129or1106"
     ],
@@ -171,8 +171,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.715355",
-      "135.426331",
+      "",
+      "",
       "フジパレス大物駅南Ⅲ番館",
       "フジアメニティサービス　新築\n｢外観写真｣・｢建築現場パノラマ｣を撮影すること"
     ],
@@ -243,8 +243,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752258",
-      "135.40744",
+      "",
+      "",
       "ヴィラマックス２　303",
       "現地ダイヤル：5508"
     ],
@@ -252,8 +252,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741287",
-      "135.399033",
+      "",
+      "",
       "ひらこうパート１　507",
       "AL：呼5963　現地ダイヤル：5508"
     ],
@@ -269,8 +269,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.722233",
-      "135.404846",
+      "",
+      "",
       "クリエオーレ神田中通２　202",
       "窓にキーボックス：8065"
     ],
@@ -303,8 +303,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.74942",
-      "135.396973",
+      "",
+      "",
       "アートンヒュース　204",
       "エイワーク武南"
     ],
@@ -321,14 +321,14 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749218",
-      "135.386841",
+      "",
+      "",
       "キューブ南武庫之荘３　201",
       "エイワーク武南"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.76136",
       "135.391617",
@@ -337,7 +337,7 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.752583",
       "135.422791",
@@ -346,7 +346,7 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.752583",
       "135.422791",
@@ -356,12 +356,20 @@
     [
       "",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "アルファレガロ神戸ウエスト　1104",
+      "株式会社TAKUTO　06-6201-1600\nAL:呼2495　ジョイナー:3232"
     ],
     [
       "",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ベルメゾン六甲　1階　2階",
+      "原田ビルディング　06-6568-9542"
     ],
     [
       "",
