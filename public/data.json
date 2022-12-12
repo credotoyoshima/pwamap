@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1025",
+  "range": "'スポットデータ'!A1:J1020",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -196,50 +196,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758598",
-      "135.385025",
-      "グレスト元町 301",
-      "玄関窓柵KB5508"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75211",
-      "135.406067",
-      "ヴィラマックス 301",
-      "現地ダイアル：5508"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752117",
-      "135.407074",
-      "ヴィラマックス２　303",
-      "現地ダイヤル：5508"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756603",
-      "135.440353",
-      "リヴィエール園田　105"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.722233",
-      "135.404846",
-      "クリエオーレ神田中通２　202",
-      "クラセルホーム株式会社　06-6170-8065\r\nカギ現地　窓にキーボックス：8065\r\nhttps://drive.google.com/open?id=1wcid8qb_rgBK4TAIcF_6aYO15LPYckXL&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "",
       "",
@@ -318,7 +274,15 @@
       "アンジュパンシオン　302",
       "株式会社アドミニ　050-5443-4152\nAL「呼7536」　ダイヤル錠0559またはPSキーボックッス0559"
     ],
-    [],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "オリエントシティソノダ  204",
+      "現地ついたら06-6730-2626"
+    ],
     [],
     [],
     [
