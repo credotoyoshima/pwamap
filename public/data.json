@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1020",
+  "range": "'スポットデータ'!A1:J1017",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -133,24 +133,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.715111",
-      "135.426193",
-      "フジパレス大物駅南Ⅱ番館",
-      "フジアメニティサービス　新築\n｢外観写真｣・｢建築現場パノラマ｣を撮影すること"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.715137",
-      "135.426529",
-      "フジパレス大物駅南Ⅴ番館",
-      "フジアメニティサービス　新築\n｢外観写真｣・｢建築現場パノラマ｣を撮影すること"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.715038",
@@ -201,15 +183,6 @@
       "",
       "",
       "マンション大谷　609"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75264",
-      "135.440552",
-      "サンマルコ　203",
-      "ダイヤル：6131"
     ],
     [
       "",
@@ -276,7 +249,7 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "",
       "",
       "",
@@ -290,7 +263,7 @@
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "#REF!"
+      "読み込んでいます..."
     ],
     [
       "",
