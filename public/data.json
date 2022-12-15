@@ -252,8 +252,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "読み込んでいます...",
+      "34.753345",
+      "135.378143",
       "ダイバーシティ武庫川　　310",
       "Al:＊5378呼　ダイヤル5421"
     ],
@@ -330,7 +330,7 @@
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "読み込んでいます..."
+      "#REF!"
     ],
     [
       "",
@@ -372,7 +372,7 @@
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "読み込んでいます..."
+      "#REF!"
     ],
     [
       "",
@@ -1352,7 +1352,7 @@
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "#ERROR!"
+      "#REF!"
     ],
     [
       "",
