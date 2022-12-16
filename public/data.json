@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J991",
+  "range": "'スポットデータ'!A1:J988",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -124,15 +124,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "マンション大谷　609",
-      "現地PS　鍵BOX　0085\nhttps://drive.google.com/file/d/14Z-SCPbNe8U8uvgs9Ae38nMVuixX2wnj/view"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -148,15 +139,6 @@
       "#ERROR!",
       "マツバラハイツ　103",
       "株式会社ハウスプロメイン 三宮営業所　078-222-0868\nhttps://drive.google.com/open?id=1l7izPh0LZ-vmEdmpG867FoCqE4thtqNg&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "",
-      "",
-      "",
-      "マンション大谷　609",
-      "光ホームサービス株式会社　　0798-69-3005　　"
     ],
     [
       "",
@@ -247,15 +229,6 @@
       "#ERROR!",
       "ロワイヤル百合　101",
       "エイワーク武南"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#ERROR!",
-      "ダイバーシティ武庫川　　310",
-      "Al:＊5378呼　ダイヤル5421"
     ],
     [
       "",
