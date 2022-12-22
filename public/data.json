@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J948",
+  "range": "'スポットデータ'!A1:J942",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -151,15 +151,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.73835",
-      "135.401443",
-      "メゾン　ルミナス　302",
-      "大東建託パートナーズ株式会社　尼崎営業所　　0672-20-306"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.686199",
@@ -214,15 +205,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752438",
-      "135.45195",
-      "アールグレイコート（全9戸）",
-      "株式会社JPMC 大阪管理センター　050-1743-4963\n2023年3月 完成予定　外観＋外観パノラマ要"
-    ],
-    [
-      "",
       "写真撮影",
       "",
       "",
@@ -250,30 +232,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75507",
-      "135.454132",
-      "パレ２０７　403",
-      "AL1327　PS2005\n株式会社トラストリード　　06-6763-2005"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.751282",
       "135.399857",
       "キューブ東武庫之荘２　402",
       "AL：呼0874　405PS：4510\n株式会社エヌコミュニケーションズ　06-6857-2121"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758492",
-      "135.44696",
-      "ヴィラアゼリア　301",
-      "\r\nPSにＫＢ番号「7726」\n株式会社さくらネクステート　JR立花店　　06-6416-7722\n"
     ],
     [
       "",
@@ -286,26 +250,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741318",
-      "135.397552",
-      "グレンリベット　103",
-      "株式会社Robot Home　大阪支店　06-6226-7137"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741318",
-      "135.397552",
-      "グリーンハイツ小林　202",
-      "一回の水道メーター\n株式会社　LIV　ONE’SLIV福島店　06-6442-0255"
-    ],
-    [
-      "",
       "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.751259",
+      "135.398697",
+      "ピノ武庫之荘　203",
+      "株式会社more life　TEL:090-8656-7166"
     ],
     [
       "",
@@ -327,36 +277,39 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
+      "",
+      "アートフェリス　202"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "",
-      "TEL:050-3186-4424\nアパルトマンエージェント株式会社"
+      "\n"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
