@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J942",
+  "range": "'スポットデータ'!A1:J941",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -277,15 +277,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.746098",
-      "135.386078",
-      "アートフェリス　202",
-      "土・日・祝 休み 案内方法:呼7161 ダイヤル錠:8429\n三浦商事株式会社　TEL:06-6453-2289"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.750599",
@@ -385,7 +376,7 @@
     ],
     [
       "",
-      "案内完了",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.746109",
       "135.391006",
