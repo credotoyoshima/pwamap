@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J940",
+  "range": "'スポットデータ'!A1:J937",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -126,15 +126,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747986",
-      "135.397461",
-      "エスポワール武庫之荘Ⅱ　101",
-      "AL:呼0033　ダ：4087\n株式会社長谷工ライブネット　関西支社　　06－6262－8450"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.744503",
       "135.427643",
       "ジーメゾン尼崎東　302",
@@ -225,28 +216,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721218",
-      "135.415329",
-      "ラヴィーユ1930　403",
-      "生和コーポレーション株式会社神戸支社　　078-333-1737"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.751282",
       "135.399857",
       "キューブ東武庫之荘２　402",
       "AL：呼0874　405PS：4510\n株式会社エヌコミュニケーションズ　06-6857-2121"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753826",
-      "135.416992",
-      "リベール塚口　203",
-      "株式会社Robot Home　大阪支店　06-6226-7137"
     ],
     [
       "",
@@ -380,7 +353,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.709862",
       "135.243546",
-      "　パロアルト２　201",
+      "パロアルト２　201",
       "株式会社Robot Home　大阪支店　06-6226-7137"
     ],
     [
