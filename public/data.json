@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J915",
+  "range": "'スポットデータ'!A1:J906",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -187,15 +187,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "エトワール２　201",
-      "大和財託リーシング株式会社　06-6147-7245\n303号室横PS　黒のキーBOX「8010」\nhttps://drive.google.com/open?id=147dz10f-VL3k-DRashjYqnuEMWDpMBPn&authuser=watanabe%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.659569",
@@ -277,15 +268,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.742863",
-      "135.388992",
-      "エトワールII　203",
-      "カギ所在:303号室横PS 黒のキーBOX【8010】"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.722919",
@@ -304,29 +286,11 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.734379",
-      "135.403351",
-      "セブンパインズAP　102",
-      "駐輪場雨樋KB1658"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "ラ・ティエラ　1001"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.768902",
-      "135.38266",
-      "サンハイツヴィレッジ３　201",
-      "藤木　智子　06-6432-2139　ダイ：2139"
     ],
     [
       "",
@@ -348,48 +312,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747887",
-      "135.381485",
-      "ファミール福田　105",
-      "大和財託リーシング株式会社　06-6147-7245\n109号室PS　黒キーボックス「8010」\nhttps://drive.google.com/open?id=1btR7Sh4Bf8BvKvyP354_baG9yNhSimwa&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.695423",
       "135.186096",
       "ローレル北野中山手通",
       "株式会社　アイシス\n078-891-8326"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.736435",
-      "135.382843",
-      "ハイツ安倉　1F",
-      "アパルトマンエージェント株式会社　PM事業部　050-3186-4424\nダイヤル「5508」\nhttps://drive.google.com/open?id=1bw0XEIz1tKpXwgKosnvhasOJVJMwndAQ&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.720642",
-      "135.436874",
-      "コルテリベロ　303",
-      "アパルトマンエージェント株式会社　PM事業部　050-3186-4424\nAL：呼6708　ダイヤル：5508\nhttps://drive.google.com/open?id=1bxY0eWcqLvB2sHVnJoDKBqjp-A7N9vVz&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.755047",
-      "135.398926",
-      "ハビタビリス２　206",
-      "アパルトマンエージェント株式会社　PM事業部　050-3186-4424\nダイヤル錠　5508\nhttps://drive.google.com/open?id=1bxGaFwv6-CxGU_DLBGG1H64k7N_1C-Q5&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -476,15 +404,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ウエスト高木Ⅱ",
-      "株式会社アドミニ　050-5443-4152"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.679024",
       "135.175827",
       "プレサンス神戸駅前グランツ　407",
@@ -492,62 +411,75 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.73613",
+      "135.42038",
       "ヴェルージュ　302",
       "ホームメイト宝塚支店　0797-821550"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.748348",
+      "135.378311",
       "ハイツボヌール　202",
       "エイブル保証株式会社　大阪支店　06-6438-8527"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.761944",
+      "135.426086",
       "ルーチェブレ102",
       "株式会社レンタックス　06-6990-7023"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.72641",
+      "135.440872",
       "ラクシュミー常光寺　504",
       "三木商事株式会社　06-6302-0443"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "",
+      "#REF!",
       "ソレイユ甲子園　102"
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アートスクエア　405"
+      "34.747246",
+      "135.396378",
+      "アートスクエア　405",
+      "株式会社アートハウジング　06-6436-2222"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.693153",
+      "135.188461",
+      "Camellia Tor Road　203",
+      "旭化成（12/27 退去予定）\nAL：呼4123　ダイヤル1129or1106"
     ],
-    [],
+    [
+      "",
+      "写真撮影",
+      "",
+      "",
+      "",
+      "ルーチェブレ　102",
+      "株式会社レンタックス　06-6990-7023\n12月末退去予定　ガスメーターキーボックス「4649」\nhttps://drive.google.com/open?id=12od4k_XSvXssIkYRPaLQmQY7-j5OXaPT&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
+    ],
     [
       "",
       "",
