@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J923",
+  "range": "'スポットデータ'!A1:J915",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -241,69 +241,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.759148",
-      "135.417114",
-      "ロイヤル塚口本町 601",
-      "尼崎市南武庫之荘1丁目-2竹島ビル4階\nアパルトマンエージェント　050-3186-4424"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.746025",
-      "135.392853",
-      "ダイドーメゾン武庫之荘Ⅵ　510",
-      "オートロック『呼3001』・玄関南京錠『2438』"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752335",
-      "135.384903",
-      "グリーンフォレスト武庫之荘６　　101",
-      "大阪建設株式会社　　0798-67-4111  ダイ：1652"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.751942",
-      "135.385483",
-      "グリーンフォレスト武庫之荘８　301",
-      "大阪建設株式会社　　0798-67-4111 　ダイ：1652"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.755356",
-      "135.381866",
-      "エクセレンス武庫　　302",
-      "株式会社アンドランド　　06-6615-8890　　ダ：7160"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741318",
-      "135.397552",
-      "GLENLIVET　103",
-      "階段手摺0630"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.735645",
-      "135.39949",
-      "トレフル立花",
-      "AL:呼3194　駐車場：8739"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.698124",
@@ -328,15 +265,6 @@
       "135.39769",
       "メゾン南武庫之荘　101",
       "株式会社アップルコーポレイション　06-6413-0035　PSダイ：0281\nhttps://drive.google.com/open?id=1HZNodsAhmHQVoG9JmF1nCi8y2LjijqRS&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.744926",
-      "135.442093",
-      "ドエルエムワン　301",
-      "有限会社アーサホーム　080-4012-4798\nhttps://drive.google.com/open?id=1HMCxPTVZRiEkubZKaGcKlAKcZtG9EGFi&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -397,7 +325,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "#REF!",
+      "",
       "ラ・ティエラ　1001"
     ],
     [
