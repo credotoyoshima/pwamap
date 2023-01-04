@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J906",
+  "range": "'スポットデータ'!A1:J905",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -449,14 +449,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#REF!",
-      "ソレイユ甲子園　102"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.747246",
       "135.396378",
       "アートスクエア　405",
@@ -482,8 +474,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.696293",
+      "135.182724",
+      "グリーンハイツ諏訪山　503",
+      "株式会社エステートトーワ　06-6130-0102"
     ],
     [
       "",
