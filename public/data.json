@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J902",
+  "range": "'スポットデータ'!A1:J901",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -241,7 +241,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.749126",
       "135.39769",
@@ -250,7 +250,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.742321",
       "135.419342",
@@ -268,7 +268,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.722919",
       "135.398605",
@@ -286,7 +286,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.750141",
       "135.430542",
@@ -367,7 +367,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.75507",
       "135.454132",
@@ -394,7 +394,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "無物",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.73613",
       "135.42038",
@@ -412,7 +412,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.761944",
       "135.426086",
@@ -440,15 +440,6 @@
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
-      "ルーチェブレ　102",
-      "株式会社レンタックス　06-6990-7023\n12月末退去予定　ガスメーターキーボックス「4649」\nhttps://drive.google.com/open?id=12od4k_XSvXssIkYRPaLQmQY7-j5OXaPT&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696293",
       "135.182724",
@@ -457,7 +448,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "無物",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.729687",
       "135.426315",
