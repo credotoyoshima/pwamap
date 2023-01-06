@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J895",
+  "range": "'スポットデータ'!A1:J888",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -250,15 +250,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.677277",
-      "135.176788",
-      "サンパレス21　401",
-      "住友林業レジデンシャル株式会社 神戸営業所　078-332-5670\nキーボックス（1503）玄関向かい扉ノブ設置"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.685978",
@@ -304,30 +295,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.744457",
-      "135.40358",
-      "シティハイツ上ノ島　３０２",
-      "株式会社アップルコーポレイション　TEL06-6413-0035\nダ：0218"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.761078",
       "135.438782",
       "ファミール園田",
       "高松エステート　06-63087401　1/30秋予定"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741318",
-      "135.397552",
-      "グレンリベット　103",
-      "株式会社Robot home大阪支店\n階段0630"
     ],
     [
       "",
@@ -358,24 +331,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ルーチェブレ102",
-      "株式会社レンタックス　06-6990-7023"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747246",
-      "135.396378",
-      "アートスクエア　405",
-      "株式会社アートハウジング　06-6436-2222"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.693153",
@@ -394,7 +349,7 @@
     ],
     [
       "",
-      "無物",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.729687",
       "135.426315",
@@ -436,24 +391,6 @@
       "135.159943",
       "ラ・フィ－ネ　301",
       "株式会社ミヤジマ　078-242-0231"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.754002",
-      "135.449829",
-      "ウエスト高木Ⅱ　101",
-      "株式会社アドミニ　050-5443-4152\nダ：0559"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752491",
-      "135.396805",
-      "モントレゾール　302",
-      "AL：呼7124　　ダ；1202　"
     ],
     [
       "",
