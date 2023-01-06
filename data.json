@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J901",
+  "range": "'スポットデータ'!A1:J895",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -241,24 +241,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749126",
-      "135.39769",
-      "メゾン南武庫之荘　101",
-      "株式会社アップルコーポレイション　06-6413-0035　PSダイ：0281\nhttps://drive.google.com/open?id=1HZNodsAhmHQVoG9JmF1nCi8y2LjijqRS&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.742321",
-      "135.419342",
-      "シャトーアムール　101",
-      "株式会社アートハウス　072-764-8232　玄関左5963\nhttps://drive.google.com/open?id=1HKUiPq_kd1lxyB83f7uhGa0qT7Emup59&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.681698",
@@ -268,30 +250,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.722919",
-      "135.398605",
-      "プレステージフジ出屋敷壱番館　201",
-      "株式会社フロントハウジング　TEL:06-6484-7226"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.677277",
       "135.176788",
       "サンパレス21　401",
       "住友林業レジデンシャル株式会社 神戸営業所　078-332-5670\nキーボックス（1503）玄関向かい扉ノブ設置"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.750141",
-      "135.430542",
-      "メゾン・ドゥ・プランタン塚口　306",
-      "株式会社さくら不動産　078-778-0333\n入居日　1月上旬～　MB：0314\nhttps://drive.google.com/open?id=13GOliIlBUhzZ7rpL9AgsSc1n3KkgdlcF&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -367,15 +331,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75507",
-      "135.454132",
-      "パレ207　　403",
-      "株式会社トラストリード　06-6763-2005\nAL：呼1327　PS：2005"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748024",
@@ -394,15 +349,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.73613",
-      "135.42038",
-      "ヴェルージュ　302",
-      "ホームメイト宝塚支店　0797-821550"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748348",
@@ -414,8 +360,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.761944",
-      "135.426086",
+      "",
+      "",
       "ルーチェブレ102",
       "株式会社レンタックス　06-6990-7023"
     ],
@@ -448,7 +394,7 @@
     ],
     [
       "",
-      "無物",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.729687",
       "135.426315",
@@ -462,7 +408,7 @@
       "#REF!",
       "135.407745",
       "カーサウーノ　202",
-      "旭化成不動産レジデンス株式会社"
+      "旭化成不動産レジデンス株式会社 06-6966-1400"
     ],
     [
       "",
@@ -502,8 +448,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.752491",
+      "135.396805",
+      "モントレゾール　302",
+      "AL：呼7124　　ダ；1202　"
     ],
     [
       "",
