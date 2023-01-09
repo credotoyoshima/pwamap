@@ -441,8 +441,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.741875",
+      "135.388077",
       "パシフィック南武庫之荘　313",
       "エスティライフ　06-6316-7200\nAL：呼2341　ダ:6316"
     ],
@@ -532,8 +532,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "#REF!",
+      "#REF!",
+      "グラン　マーリエ　405",
+      "大和リビング株式会社　神戸営業所　078-252-7260\r\n入居可能日：2023月1月中旬"
     ],
     [
       "",
