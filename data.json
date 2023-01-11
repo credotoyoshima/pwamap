@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J884",
+  "range": "'スポットデータ'!A1:J883",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -595,17 +595,12 @@
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "アクティ塚口　302",
-      "株式会社　リブマックスプロパティマネジメント　西日本管理部\n078-272-1503\n※カギ情報取得（ID・PW発行中）"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "アングレーム　301",
+      "AL左のとゆにキーボックス　ダ：3672"
     ],
     [
       "",
