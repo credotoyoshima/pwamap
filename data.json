@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J883",
+  "range": "'スポットデータ'!A1:J874",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -460,15 +460,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.716648",
-      "135.383682",
-      "パルティール武庫川　",
-      "撮れどうな部屋全部　AL:呼8668   玄関:オープン"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.695976",
@@ -514,84 +505,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アクティ塚口　302",
-      "株式会社リブマックスプロパティマネジメント西日本管理部\n078-272-1503\nAL:2834　ダ：5850"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アムール宮崎　103",
-      "株式会社木下の賃貸　TEL:050-3187-3829　\n物件ID　11087＊4\nダイヤル6664"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アルファ武庫之荘　102",
-      "アパルトマンエージェント株式会社　050-3186-4424\n部屋・ダイヤル錠・5508"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランデル武庫之荘403",
-      "株式会社日立アーバンサポート　関西支店\nTEL:06-6233-2550\n鍵：賃貸住宅サービス武庫之荘店"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ジョリーアピタ白峰　305",
-      "株式会社リブマックスプロパティマネジメント　西日本管理部\n078-272-1503\nダ：5850"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サニーハイツ　201",
-      "リノライフ八尾　072-924-0715\nカギ：現地から電話下さい\nhttps://drive.google.com/open?id=1d5jyylllVJpSYXM5dg541mnCao6q8YEC&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.698124",
       "135.19519",
       "クロワートル二宮　301",
       "照喜屋不動産株式会社　078-231-5800　←カギ\nhttps://drive.google.com/open?id=12vkDORGUdtvvhNCkP4d3ZaHIu2Lo5Z-h&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.726494",
-      "135.399124",
-      "Y'sコート蘭びっく 101",
-      "株式会社日立アーバンサポート　関西支店\nTEL:06-6233-2550\n鍵：賃貸住宅サービス武庫之荘店　"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.746857",
-      "135.393982",
-      "AILE武庫之荘Ⅱ　外観写真　外観パノラマ",
-      "フロントハウジング"
     ],
     [
       "",
