@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J868",
+  "range": "'スポットデータ'!A1:J864",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -514,33 +514,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.726494",
-      "135.399124",
-      "Y‘ｓコート蘭びっく　101",
-      "東亜リース株式会社\nオートロック:呼2327、部屋:オープン"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.750866",
-      "135.401505",
-      "メゾン富松　205",
-      "アパルトマンエージェント株式会社　050-3186-4424\nダ：5508"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753731",
-      "135.401947",
-      "プチ富松301",
-      "アエラハウス株式会社　06-6424-1800\nダ：1800"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.711891",
@@ -667,15 +640,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721443",
-      "135.404495",
-      "LINES CHROME 202",
-      "Robot home 大阪支店　06-6226-7032\n1/31"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758698",
@@ -757,7 +721,7 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.749855",
       "135.45401",
@@ -766,8 +730,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.753193",
+      "135.409851",
+      "ザ･シティ塚口　401",
+      "ダイアル:1717"
     ],
     [
       "",
