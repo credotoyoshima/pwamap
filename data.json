@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J864",
+  "range": "'スポットデータ'!A1:J860",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -613,24 +613,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758156",
-      "135.418228",
-      "ラフォーレ塚口　101",
-      "株式会社ケイツーエステート　06-6304-4400　ダイ：3300\nhttps://drive.google.com/open?id=1-zhlQdyBOrcA8kQ04nN92HVChFILb_-X&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.741295",
-      "135.398865",
-      "Ａｔｔｉｃ立花（アティック立花）　202　103",
-      "株式会社Robot Home　大阪支店\n\t階段手摺　0630"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.756897",
@@ -687,8 +669,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.721054",
+      "135.402679",
       "フジパレス出屋敷Ⅵ番館",
       "即可\nフジ・アメニティサービス株式会社　072-437-0079"
     ],
@@ -696,8 +678,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.756683",
+      "135.385544",
       "フジパレス武庫之荘Ⅴ番館",
       "即可\nフジ・アメニティサービス株式会社　072-437-0079"
     ],
@@ -727,24 +709,6 @@
       "135.45401",
       "フォーラムレジデンス東園田　108､109",
       "オートロック:呼7166､PSに鍵あり"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753193",
-      "135.409851",
-      "ザ･シティ塚口　401",
-      "ダイアル:1717"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.745655",
-      "135.420273",
-      "シオン塚口　405",
-      "カギ所在        ：AL呼0729　水道メーター\n株式会社レンタックス　06-6990-7023"
     ],
     [
       "",
