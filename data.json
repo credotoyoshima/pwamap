@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J860",
+  "range": "'スポットデータ'!A1:J852",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -121,15 +121,6 @@
       "",
       "アンジュパンシオン　302",
       "株式会社アドミニ　050-5443-4152\nAL「呼7536」　ダイヤル錠0559またはPSキーボックッス0559"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.744862",
-      "135.401062",
-      "ルシェール武庫之荘　401",
-      "20日退去予定ずれ込んでる\nエイブル保証株式会社 大阪支店　TEL:06-6348-8527"
     ],
     [
       "",
@@ -604,24 +595,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.73959",
-      "135.406586",
-      "カーサ　ボニータ 101",
-      "旭化成　C-housに鍵ある"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756897",
-      "135.434464",
-      "サンベリオ　205",
-      "高松エステート　06-6308-7401　\nAL:無　PS内キーボックス：1972 又は ダイヤル錠：197"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758698",
@@ -667,24 +640,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721054",
-      "135.402679",
-      "フジパレス出屋敷Ⅵ番館　102",
-      "即可\nフジ・アメニティサービス株式会社　072-437-0079\nAL0570　南京錠5524"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756683",
-      "135.385544",
-      "フジパレス武庫之荘Ⅴ番館　101",
-      "即可\nフジ・アメニティサービス株式会社　072-437-0079\nAL：＃3184　南京錠：5524"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -703,39 +658,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749855",
-      "135.45401",
-      "フォーラムレジデンス東園田　108､109",
-      "オートロック:呼7166､PSに鍵あり"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.73959",
-      "135.406586",
-      "カーサ　ボニータ 101",
-      "【旭化成】ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748905",
       "135.385437",
       "パルク武庫之荘　404　",
       "エイワーク武庫之荘南に鍵有り　アーサホーム"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749538",
-      "135.393448",
-      "メゾンエトワール　302",
-      "ピタットハウス武庫之荘店に鍵ある。行く前に電話"
     ],
     [
       "",
