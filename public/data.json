@@ -414,8 +414,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.748844",
-      "135.386536",
+      "",
+      "#ERROR!",
       "アネックス武庫之荘　405・305・205",
       "高河原産業株式会社 06-6438-7570",
       "高河原産業株式会社",
@@ -973,8 +973,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.678581",
+      "135.167953",
+      "湊川コーポ　215",
+      "湊川実業株式会社　078-576-5000"
     ],
     [
       "",
