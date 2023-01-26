@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J821",
+  "range": "'スポットデータ'!A1:J801",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -34,66 +34,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ファーストフィオーレ神戸元町ディモーラ",
-      "101.202.103.404.501.602.703.804.808→掲載中\n内覧可　ＧＯＷＥＢより予約後\nhttps://drive.google.com/file/d/1wVmEqp-jgR4Nh7iuRHMj179ws6ejvC4c/view"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.716484",
       "135.217804",
       "ST（エスティー）　101、201、202",
       "有限会社ハウジング神戸　078-861-0800\nhttps://drive.google.com/open?id=1_1Bg2aYFKbW7SNaSVJaIuv6xmyNeaFba&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン王子公園　201",
-      "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リジエール　ドゥ　ヴィラージュ　102",
-      "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ブラザースメゾン　201",
-      "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クレシェンド岡本　203、205",
-      "旭化成\nAL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エクセルメゾンⅡ　201",
-      "旭化成・新築\nAL 呼4123　ダイヤル1129or1106"
     ],
     [
       "",
@@ -115,30 +61,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "アンジュパンシオン　302",
-      "株式会社アドミニ　050-5443-4152\nAL「呼7536」　ダイヤル錠0559またはPSキーボックッス0559"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.686199",
       "135.189163",
       "ワコーレザ・神戸旧居留地レジデンスタワー\n204",
       "グローバルコミュニティ株式会社 神戸支社　078-570-7540\nSUMIKAE神戸三宮店　078-252-5030"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.674629",
-      "135.168488",
-      "パレス大開通　901",
-      "住友林業レジデンシャル株式会社 神戸営業所　078-332-5670\nガスメーターにきーBOX「0125」"
     ],
     [
       "",
@@ -169,24 +97,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アクアコート　301",
-      "旭化成\nカギ：AL：呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アイリス和田崎　203",
-      "兵庫県神戸市中央区元町通７丁目3-3 ワコーレハーバーCITY元町1F\n078-362-8884"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.679935",
@@ -214,15 +124,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランメール原田通　102",
-      "サンクライフ株式会社　078-381-9015"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.698124",
@@ -241,39 +142,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "セイシェル神戸　803",
-      "株式会社いづみ商会　北店　078-646-8288\n現地のMBにキーボックス"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.695423",
       "135.186096",
       "ローレル北野中山手通",
       "株式会社　アイシス\n078-891-8326"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ポプリ六甲　103",
-      "株式会社ハウスプロメイン　三宮営業所\n078-222-0868"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.718643",
-      "135.244431",
-      "フォルム六甲道　301",
-      "シー・プラス株式会社　\n078-335-5858"
     ],
     [
       "",
@@ -364,42 +238,6 @@
       "135.159943",
       "ラ・フィ－ネ　301",
       "株式会社ミヤジマ　078-242-0231"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "灘ロイヤルハイツ　503",
-      "玄関ダイヤル錠　2127"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "生田リバーハイツ　301",
-      "AL：呼1910　　ダイヤル錠　2127"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "マリンクレール六甲Ⅱ　502",
-      "現地鍵　2127"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "バルミー兵庫Ⅱ　503",
-      "ダイヤル錠　2127"
     ],
     [
       "",
@@ -678,8 +516,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.709911",
-      "135.222198",
+      "",
+      "#ERROR!",
       "モンテ王子　206",
       "株式会社関西ホームサービス　06-6787-8111\nhttps://drive.google.com/open?id=1Hs7ygnRrbkfIJUEVLBiDnArw9wBMiHqQ&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -1074,15 +912,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.693153",
-      "135.188461",
-      "Camellia Tor Road　203",
-      "旭化成（12/27 退去予定）\nAL：呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758156",
       "135.418228",
       "ラフォーレ塚口　101､202",
@@ -1105,15 +934,6 @@
       "135.295898",
       "セジュール芦屋三条町　202",
       "旭化成（12/24 退去予定）\nAL：呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ハイツボヌール　202",
-      "エイブル保証株式会社　06-6348-8527\n入居可能日　1/4～\nhttps://drive.google.com/open?id=141BMMRaulpo0jm9Sbr_r3ZpP1wQlptFe&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
