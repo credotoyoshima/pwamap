@@ -360,8 +360,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#ERROR!",
+      "34.674141",
+      "135.159943",
       "ラ・フィ－ネ　301",
       "株式会社ミヤジマ　078-242-0231"
     ],
@@ -795,8 +795,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.755203",
-      "135.438416",
+      "",
+      "",
       "Ｓｐｒｉｎｇ　Ｃｏａｓｔ　Ⅲ　201",
       "階段手摺:0630"
     ],
@@ -804,8 +804,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.761944",
-      "135.426086",
+      "",
+      "",
       "ルーチェブレ　102",
       "ガスメーターキーボックス4649"
     ],
@@ -840,8 +840,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.760895",
-      "135.40152",
+      "",
+      "",
       "フィオーレ・オルティア　 302",
       "オートロックゴミステーション水栓キーボックス5508、玄関ダイヤル錠5508(予"
     ],
@@ -1135,8 +1135,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.705673",
+      "135.211853",
+      "ＮＨエステート王子公園",
+      "大和財託"
     ],
     [
       "",
