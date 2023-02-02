@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J796",
+  "range": "'スポットデータ'!A1:J784",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -622,15 +622,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.719547",
-      "135.387253",
-      "コンフォート武庫川　105，101",
-      "現地玄関右手の駐輪場の配管にキーバンカー設置:0085 or 6400 or 6014"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.682411",
@@ -730,15 +721,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.719547",
-      "135.387253",
-      "コンフォート武庫　101",
-      "株式会社ダイキチ　06-6326-6151\n現地玄関右手の駐輪場の配管にキーバンカー設置\n0085 or 6400 or 6014"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.711807",
@@ -808,15 +790,6 @@
       "135.444458",
       "ブパリア園田　105",
       "株式会社ァドミニ　　06-6271-2012\n内見可能03/01"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.75703",
-      "135.381012",
-      "元町アーバンハイツ　101",
-      "玄関前1658"
     ],
     [
       "",
@@ -946,39 +919,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.756897",
-      "135.434464",
-      "サンベリオ　605",
-      "髙松エステート株式会社　06-6308-7401\n\nAL:無　PS内キーボックス：1972 又は ダイヤル錠：197\n"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721443",
-      "135.404495",
-      "フジパレス琴浦通り　301",
-      "フジ・アメニティサービス株式会社　072-437-0079\n案内方法(ｵｰﾄﾛｯｸ呼0570/R101ﾊﾟｲﾌﾟｽﾍﾟｰｽ2480)\n※新築なので、【外観＋共用＋室内】たくさん撮ってください！"
-    ],
-    [
-      "",
       "写真撮影",
       "",
       "",
       "",
       "FKT　BLD　501",
       "株式会社阪神建物サービス　06-6437-8555"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749855",
-      "135.377502",
-      "アトレ武庫　903",
-      "玄関前　7000　*0902呼"
     ],
     [
       "",
@@ -1027,15 +973,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.745655",
-      "135.420273",
-      "リブ南塚口　301",
-      "\tガスメーター上"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.721951",
@@ -1054,39 +991,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.740059",
-      "135.397995",
-      "ベルトピア立花Ⅲ　207，307，308",
-      "AL:呼2111　　ダイヤル錠8181"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.719429",
       "135.425476",
       "レーヴメゾン尼崎大物　302、601",
       "\tAL:呼1682　202号PSキーボックス共通キー:8000"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.718327",
-      "135.406387",
-      "レーヴメゾン出屋敷301，303",
-      "AL:呼1682、2階MBにキーボックス:8000"
-    ],
-    [
-      "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "サニーハイツ　201",
-      "4567キーボックス　募集止め解除する\n優先！！！！　全部入れ替える"
     ],
     [
       "",
@@ -1135,15 +1045,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.7164",
-      "135.42038",
-      "ゼニス北城内",
-      "101､102､103､201､202､203\nAL呼0018　部屋OPEN"
-    ],
-    [
-      "",
       "写真撮影",
       "",
       "",
@@ -1159,15 +1060,6 @@
       "#REF!",
       "アイリープラザ武庫之荘 202",
       "1月31日　退去\nAL「※1212呼」､ダイヤル錠「0663」\nhttps://drive.google.com/file/d/1yM_GV_rTm9-TTSxleXzJYR490-OkO_h-/view"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
-      "(仮)東園田9丁目マンション",
-      "現地外観（工事中）+パノラマ\nhttps://drive.google.com/open?id=182hhkEYC21nw2bAD7wMh-pogRNG4xVfL&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -1425,8 +1317,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#ERROR!",
+      "34.748764",
+      "135.434845",
       "コウノトリ　105",
       "玄関周辺　1202"
     ],
@@ -1468,12 +1360,12 @@
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
