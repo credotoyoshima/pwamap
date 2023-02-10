@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J744",
+  "range": "'スポットデータ'!A1:J739",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1144,15 +1144,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パレス南塚口弐号棟 707",
-      "株式会社セノオ商会 06-6429-1105　当社鍵\n兵庫県尼崎市南塚口町２丁目１−１０２"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.688969",
@@ -1342,24 +1333,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンオーニック　エミュー　303",
-      "一階手摺キーボックス3672　オートロック　＃7777 "
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "武庫ビラ　203",
-      "玄関ダイヤル錠5508"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.733738",
@@ -1485,30 +1458,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス南塚口Ⅱ番館　102",
-      "案内方法(ｵｰﾄﾛｯｸ＃3184/南京錠5524)"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.759148",
       "135.417114",
       "ロイヤル塚口本町　6F",
       "AL・部屋鍵　当社　尼崎市南武庫之荘１丁目20-2 竹島ビル4階に鍵"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "福々邸弐番館",
-      "AL：1661　南京錠：4962"
     ],
     [
       "",
