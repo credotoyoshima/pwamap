@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J755",
+  "range": "'スポットデータ'!A1:J744",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1342,7 +1342,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.761292",
       "135.39389",
@@ -1351,7 +1351,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.753494",
       "135.391068",
@@ -1414,15 +1414,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾンアルモニー　　201",
-      "玄関かPS1202　　　"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748806",
@@ -1438,24 +1429,6 @@
       "135.409332",
       "メゾンアルモニー　102　",
       "玄関かPS1202　　"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラ・フォーテュンヌ　301",
-      "案内方法AL1234　玄関：8118"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アーバンクリーク　305",
-      "PS:2103"
     ],
     [
       "",
@@ -1581,46 +1554,6 @@
       "135.42218",
       "フジパレス南塚口町三丁目　",
       "フジ・アメニティサービス株式会社　072-437-0079　新築につき外観写真　パノラマ"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
