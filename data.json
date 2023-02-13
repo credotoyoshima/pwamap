@@ -1443,8 +1443,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.694344",
-      "135.188065",
+      "",
+      "",
       "ワコーレザ・神戸トアロード　1208",
       "株式会社　テナントホーム　078-335-7835"
     ],
@@ -1452,8 +1452,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.695953",
-      "135.200195",
+      "",
+      "",
       "サムティ三宮レガニール　1102",
       "株式会社大京穴吹不動産　06-7175-7654　"
     ],
@@ -1479,15 +1479,19 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.684971",
+      "135.181427",
       "アスヴェルみなと元町OceanFront　401",
       "ホームメイトFC三宮店に鍵"
     ],
     [
       "",
       "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ライオンズマンション神戸元町通　７０１",
+      "株式会社大京穴吹不動産　06-7175-7654　"
     ],
     [
       "",
