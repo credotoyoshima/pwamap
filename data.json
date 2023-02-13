@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J677",
+  "range": "'スポットデータ'!A1:J673",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -286,23 +286,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.720287",
-      "135.227921",
-      "エクソニア篠原本町　202",
-      "有限会社　エクソン　078-854-3310\n現地から電話"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "三宮アソシア　3F"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.754814",
       "135.378464",
       "第一サニーハイツ　205",
@@ -325,15 +308,6 @@
       "135.182281",
       "花隈ダイヤハイツ　517",
       "東急住宅リース株式会社　運営本部関西支店　050-3177-4359\n空家　現地ドアにダイヤル鍵　Ｎｏ．2929"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747326",
-      "135.444458",
-      "ブパリア園田　105",
-      "株式会社ァドミニ　　06-6271-2012\n内見可能03/01"
     ],
     [
       "",
@@ -580,17 +554,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "#REF!",
       "#REF!",
-      "ROBOT　HOUSE　尼崎　203",
-      "株式会社Robot Home　大阪支店　06-6226-7032\n2/12 退去予定"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
       "ＣＲＡＳＴＩＮＥ大物町１丁目　202",
-      "株式会社Robot Home　大阪支店　06-6226-7032\n退去時期未定（確認要）\nAL：鍵ボタン＋001192＋鍵ボタン1＋決定＋0630＋決定"
+      "AL：鍵ボタン＋001192＋鍵ボタン1＋決定＋0630＋決定"
     ],
     [
       "",
@@ -683,7 +648,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.756691",
-      "",
+      "2023/02/06",
       "ベアコート塚口　404",
       "株式会社エムエープランニング　06-6423-1111\n空室　MB8795"
     ],
@@ -701,7 +666,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "#REF!",
-      "135.23645",
+      "",
       "あゆみ六甲ハウス　301　202　303"
     ],
     [
@@ -709,7 +674,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "#REF!",
-      "",
+      "2023/02/06",
       "エルデ六甲　201、205、306"
     ],
     [
@@ -717,15 +682,15 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "",
+      "2023/02/06",
       "藤徳ビル　201"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.674679",
-      "135.163712",
+      "",
+      "",
       "ベレッツァ中道　204"
     ],
     [
@@ -741,10 +706,9 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.728832",
-      "135.400101",
-      "アーバンクリーク　305",
-      "株式会社ハイプレ　06-6423-7158　　※2/7時点、改装中\nhttps://drive.google.com/open?id=1Xe-tIPp85Gj6x0fEn6xpFPLh4_Jkv5qO&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
+      "",
+      "",
+      "アーバンクリーク　305"
     ],
     [
       "",
@@ -759,24 +723,24 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.662289",
-      "135.170837",
+      "",
+      "",
       "カサアレグリア　101"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.676666",
-      "135.167145",
+      "",
+      "",
       "シャルム中道　503"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.71006",
-      "135.219223",
+      "",
+      "",
       "ルネッサンス王子　601、602"
     ],
     [
@@ -810,8 +774,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.773903",
-      "135.380478",
+      "",
+      "",
       "レジデンス　Ｔ．Ｓ　103\n※新築につき撮影可能な全部屋",
       "新築　大東建託パートナーズ尼崎営業所（HP参照）\n2月 完成予定（可能な全部屋撮影）\n※撮影予定物件にもリスト化してます"
     ],
@@ -846,16 +810,16 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.680378",
-      "135.16951",
+      "",
+      "",
       "マンエイマンション　402"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.692043",
-      "135.177795",
+      "",
+      "",
       "エフ・コート神戸中山手通"
     ],
     [
@@ -889,8 +853,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.708572",
-      "135.234924",
+      "",
+      "",
       "メゾン・ド・平岡２番館　403.101"
     ],
     [
@@ -924,8 +888,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721691",
-      "135.221481",
+      "",
+      "",
       "グランパラッシオ六甲高尾通　406"
     ],
     [
@@ -1030,32 +994,32 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.751091",
-      "135.419296",
+      "",
+      "",
       "ハイムアベニュー　202"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.705112",
-      "135.224487",
+      "",
+      "",
       "ライオンズ灘・都通　203"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.694344",
-      "135.188065",
+      "",
+      "",
       "ワコーレザ・神戸トアロード　1208"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.695953",
-      "135.200195",
+      "",
+      "",
       "サムティ三宮レガニール　1102"
     ],
     [
@@ -1071,8 +1035,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.717571",
-      "135.231232",
+      "",
+      "",
       "ラ・セーヌ六甲　502"
     ],
     [
@@ -1088,8 +1052,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.684582",
-      "135.181458",
+      "",
+      "",
       "ライオンズマンション神戸元町通　７０１"
     ],
     [
