@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J721",
+  "range": "'スポットデータ'!A1:J719",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -130,15 +130,6 @@
       "",
       "プレサンス神戸駅前グランツ　407",
       "2/8退去予定"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Camellia Tor Road　203",
-      "旭化成（12/27 退去予定）\nAL：呼4123　ダイヤル1129or1106"
     ],
     [
       "",
@@ -475,15 +466,6 @@
       "",
       "ル・ロワ赤坂　403",
       "CENTURY21ハウジング神戸　078-861-0800"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "オネスティ10　201",
-      "オネスティ神戸株式会社　078-974-0088"
     ],
     [
       "",
@@ -1450,10 +1432,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.766518",
-      "135.439178",
+      "",
+      "",
       "マンションフローラ　403",
       "夢晴耕雨耕株式会社　06-6433-6661\n案内方法：PS"
     ],
@@ -1468,8 +1450,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.694344",
+      "135.188065",
+      "ワコーレザ・神戸トアロード　1208",
+      "株式会社　テナントホーム　078-335-7835"
     ],
     [
       "",
