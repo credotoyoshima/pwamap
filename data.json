@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J670",
+  "range": "'スポットデータ'!A1:J669",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -90,14 +90,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プレサンス神戸駅前グランツ　407"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.675922",
       "135.175385",
       "エステムコート神戸ハーバーランド前Ⅱ\n213",
@@ -129,14 +121,6 @@
       "135.271225",
       "パル甲南　203",
       "【旭化成】ダイヤル1129or1107"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｎ－ＣＵＢＥ 101"
     ],
     [
       "",
@@ -333,22 +317,6 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "インプルーブ三宮イースト　707\n旧：パークサイド春日野道駅前"
-    ],
-    [
-      "",
-      "写真撮影",
-      "",
-      "",
-      "",
-      "ピエ・デル・モンテ摩耶　201"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
       "プチ富松301",
       "アエラハウス株式会社　06-6424-1800\nダ：1800"
     ],
@@ -396,14 +364,6 @@
       "#REF!",
       "石井町3丁目　貸家　1号室",
       "玄関横フェンス　KB1658"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｃａｓａ　Ｌｉｎｄａ 201"
     ],
     [
       "",
@@ -510,14 +470,6 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "#REF!",
       "#REF!",
-      "リヴェール北野坂　603"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
       "モレス・ヴィラ六甲　304",
       "AL：呼2727 退去後玄関錠：2127"
     ],
@@ -552,14 +504,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アドバンス神戸グルーブ　505"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.736534",
       "135.420258",
       "尾浜ハイツ　204",
@@ -569,34 +513,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランディア旗塚通　102"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748764",
       "135.434845",
       "コウノトリ　105",
       "玄関周辺　1202"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジェロ大倉山　302"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ルミエールダイドー　1005"
     ],
     [
       "",
@@ -647,38 +567,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "",
-      "あゆみ六甲ハウス　301　202　303"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "2023/02/06",
-      "エルデ六甲　201、205、306"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "2023/02/06",
-      "藤徳ビル　201"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ベレッツァ中道　204"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.726978",
       "135.43869",
       "クレール常光寺 101～302　　新築",
@@ -688,42 +576,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アーバンクリーク　305"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.75396",
       "135.43309",
       "ファースト園田　203、602",
       "株式会社アズ・スタット　06-6150-4148\n2/7時点、改装前（ダイヤル4146）"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "カサアレグリア　101"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シャルム中道　503"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ルネッサンス王子　601、602"
     ],
     [
       "",
@@ -792,22 +648,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "マンエイマンション　402"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エフ・コート神戸中山手通"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.748806",
       "135.407043",
       "グレイス南塚口　202",
@@ -835,14 +675,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・ド・平岡２番館　403.101"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.742321",
       "135.419342",
       "シャトーアムール　101",
@@ -865,14 +697,6 @@
       "135.409332",
       "メゾンアルモニー　101　201",
       "玄関かPS1202"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランパラッシオ六甲高尾通　406"
     ],
     [
       "",
@@ -957,47 +781,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "",
-      "",
-      "",
-      "へーベルメゾン小松北町　101",
-      "【旭化成】AL 呼4123　ダイヤル1129or1106\n空家"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ハイムアベニュー　202"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ライオンズ灘・都通　203"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ワコーレザ・神戸トアロード　1208"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サムティ三宮レガニール　1102"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.70697",
@@ -1009,26 +792,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラ・セーヌ六甲　502"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.684971",
       "135.181427",
       "アスヴェルみなと元町OceanFront　401",
       "ホームメイトFC三宮店に鍵"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ライオンズマンション神戸元町通　７０１"
     ],
     [
       "",
@@ -1072,8 +839,184 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "Ｎ－ＣＵＢＥ 101"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "カサアレグリア　101"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "グランディア旗塚通　102"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "アドバンス神戸グルーブ　505"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "シャルム中道　503"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ルネッサンス王子　601、602"
+    ],
+    [
+      "",
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "インプルーブ三宮イースト　707\n旧：パークサイド春日野道駅前"
+    ],
+    [
+      "",
+      "写真撮影",
+      "",
+      "",
+      "",
+      "ピエ・デル・モンテ摩耶　201"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ラ・セーヌ六甲　502"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "レジェロ大倉山　302"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ルミエールダイドー　1005"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "グランパラッシオ六甲高尾通　406"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "プレサンス神戸駅前グランツ　407"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "#REF!",
+      "#REF!",
+      "リヴェール北野坂　603"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "マンエイマンション　402"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "エフ・コート神戸中山手通"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ライオンズマンション神戸元町通　７０１"
     ],
     [
       "",
@@ -1147,8 +1090,11 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "Ｃａｓａ　Ｌｉｎｄａ 201"
     ],
     [
       "",
@@ -1157,8 +1103,75 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "アーバンクリーク　305"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "#REF!",
+      "",
+      "あゆみ六甲ハウス　301　202　303"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "#REF!",
+      "2023/02/06",
+      "エルデ六甲　201、205、306"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "2023/02/06",
+      "藤徳ビル　201"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ベレッツァ中道　204"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ハイムアベニュー　202"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ライオンズ灘・都通　203"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "ワコーレザ・神戸トアロード　1208"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "サムティ三宮レガニール　1102"
     ],
     [
       "",
@@ -1167,33 +1180,11 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "メゾン・ド・平岡２番館　403.101"
     ],
     [
       "",
