@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J667",
+  "range": "'スポットデータ'!A1:J666",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -454,15 +454,6 @@
       "#REF!",
       "モレス・ヴィラ六甲　304",
       "AL：呼2727 退去後玄関錠：2127"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
-      "モノンコード（全6戸）",
-      "葉（個人オーナー）090-1154-8858\n林（個人オーナー）090-1133-9988\n2月上旬完成予定"
     ],
     [
       "",
@@ -1068,8 +1059,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.698189",
+      "135.19252",
+      "Pista中山手通　202",
+      "2/14時点、リフォーム中"
     ],
     [
       "",
