@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J671",
+  "range": "'スポットデータ'!A1:J670",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -102,15 +102,6 @@
       "135.175385",
       "エステムコート神戸ハーバーランド前Ⅱ\n213",
       "株式会社ネクサスエージェント　050-5530-5600\n内覧方法：現地対応です\nhttps://drive.google.com/open?id=1cdEyEq-1kK5raHt5cJ13l1Tacf82o3zJ&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パープルツィン園田　203　405",
-      "メーターボックス内　キーボックス3672 "
     ],
     [
       "",
@@ -1059,8 +1050,12 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "パープルツィン園田　203　405",
+      "メーターボックス内　キーボックス3672 "
     ],
     [
       "",
