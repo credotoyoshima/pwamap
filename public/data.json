@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J666",
+  "range": "'スポットデータ'!A1:J662",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -475,15 +475,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "コウノトリ　105",
-      "玄関周辺　1202"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696808",
@@ -538,30 +529,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ファースト園田　203、602",
-      "株式会社アズ・スタット　06-6150-4148\n2/7時点、改装前（ダイヤル4146）"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.751434",
       "135.419708",
       "アレックスビル　202",
       "株式会社セノオ商会　06-6429-1105\nリフォーム中　※セノオ商会に鍵あり"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ネクステージ御園Ⅱ　201",
-      "株式会社ネクステージ　06-6422-2200\nカギ現地（外観＋共用＋室内＋パノ）"
     ],
     [
       "",
@@ -760,15 +733,6 @@
       "135.241653",
       "サンパレス２１六甲永手　3B",
       "-鍵は５Bの水道メーターにキーボックス(暗証番号0231)があります"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パープルツィン園田　203　405",
-      "メーターボックス内　キーボックス3672 "
     ],
     [
       "",
@@ -1077,8 +1041,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.748249",
+      "135.428192",
+      "パインフィールド　103",
+      "玄関ドア　D1106"
     ],
     [
       "",
