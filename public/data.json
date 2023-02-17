@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J648",
+  "range": "'スポットデータ'!A1:J640",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -112,15 +112,6 @@
       "135.2995",
       "リバーサイド山芦屋　101",
       "【旭化成】ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パル甲南　203",
-      "【旭化成】ダイヤル1129or1107"
     ],
     [
       "",
@@ -265,15 +256,6 @@
       "135.38269",
       "コナビレッジ　413",
       "管理人の所に鍵貰いに行く"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジデンス北青木　106",
-      "旭化成\nダイヤル1129or1106"
     ],
     [
       "",
@@ -502,15 +484,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ソーレフォンテ　203",
-      "階段手摺にキーボックス有り\nダ：0630"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.665222",
@@ -520,48 +493,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グレイス南塚口　202",
-      "アパマンショップ塚口店に鍵あり\n06-6423-5311"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アレックスビル　202",
-      "セノオ商会に鍵あり\n06-6429-1105"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.74548",
       "135.38681",
       "ヴィサージュ武庫之荘　505",
       "有限会社アーサホーム　鍵：エイワーク武南"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス南塚口町三丁目　",
-      "フジ・アメニティサービス株式会社　072-437-0079\n新築につき外観写真　パノラマ"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アートンヒュース　105",
-      "AL:＊9387呼　鍵エイワーク武南"
     ],
     [
       "",
@@ -903,15 +840,6 @@
       "",
       "ザ・パークハウス神戸タワー　1610",
       "ホームメイト株式会社　Kittiri　06-6532-2111\n2/21退去"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シエテ南塚口　210　505　　509",
-      "AL:呼0420　ダ:4514"
     ],
     [
       "",
