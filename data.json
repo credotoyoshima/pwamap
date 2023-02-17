@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J657",
+  "range": "'スポットデータ'!A1:J649",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -238,15 +238,6 @@
       "135.267075",
       "ShaMaison Okamoto Hills A　102",
       "現地8180"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アクシリア尼崎",
-      " 案内用鍵手配:管理人ポストに鍵があります。\nポストダイヤル左へ2回⑥右へ1回A"
     ],
     [
       "",
@@ -511,24 +502,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ヴィレッジコート　203",
-      "阪急阪神不動産株式会社　06-6313-3403\n現地キーバンカー設置"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エコロシティ七松　305",
-      "201PSの中にキーボックス3171"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.721874",
@@ -565,33 +538,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンライズ浜田町",
-      "玄関：1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シャトーアムール　101",
-      "現地：5960、0000"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾンアルモニー　102　201",
-      "玄関かPS1202"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.74548",
@@ -623,7 +569,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.760265",
       "135.394348",
-      "アーク武庫之荘NO.5",
+      "アーク武庫之荘NO.5　501",
       "エイワーク武南"
     ],
     [
@@ -993,24 +939,6 @@
       "135.19252",
       "Pista中山手通　202",
       "2/14時点、リフォーム中"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パインフィールド　103",
-      "玄関ドア　D1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン　ナナマツ　205",
-      "D1129"
     ],
     [
       "",
