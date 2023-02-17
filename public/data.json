@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J649",
+  "range": "'スポットデータ'!A1:J648",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -879,15 +879,6 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "",
-      "↑調べなあかんヤツ､色変えてあげると嬉しいんじゃないかな♪"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "#REF!",
@@ -915,11 +906,11 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749622",
-      "135.420288",
-      "シエテ南塚口　210　505　508　509",
+      "",
+      "",
+      "シエテ南塚口　210　505　　509",
       "AL:呼0420　ダ:4514"
     ],
     [
