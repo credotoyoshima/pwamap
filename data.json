@@ -144,8 +144,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.696808",
-      "135.198593",
+      "",
+      "#ERROR!",
       "メゾン・ド・ソレイユ三宮　302",
       "ＡＬ：ホームメイト神戸三宮店　090-2591-1985　担当新井\nMBに鍵"
     ],
@@ -468,7 +468,7 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
+      "34.756691",
       "2023/02/06",
       "ベアコート塚口　404",
       "株式会社エムエープランニング　06-6423-1111\n空室　MB8795"
@@ -953,8 +953,11 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.717918",
+      "135.242722",
+      "シャトラン弓木壱番館　301、"
     ],
     [
       "",
