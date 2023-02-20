@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J633",
+  "range": "'スポットデータ'!A1:J632",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -25,7 +25,7 @@
     ],
     [
       "",
-      "業者",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.75164",
       "135.392532",
@@ -35,9 +35,9 @@
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.76664",
+      "135.443024",
       "ヴェルドミール園田　221",
       "玄関前1202"
     ],
@@ -243,17 +243,17 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.753731",
+      "135.401947",
       "プチ富松301",
       "アエラハウス株式会社　06-6424-1800\nダ：1800"
     ],
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.693939",
+      "135.18985",
       "ＩＴビル　402、501",
       "【旭化成】案内方法：AL 呼1111 ダイヤル 1129or1106"
     ],
@@ -261,8 +261,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.667759",
+      "135.168472",
       "アドバンス神戸レイソレ　",
       "株式会社アズ・スタット　06-6150-4148　新築　内覧予約必要　\n※HP参照　　(206号及び210号内覧可能)"
     ],
@@ -270,8 +270,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.758198",
+      "135.388947",
       "アイリープラザ武庫之荘 202",
       "AL「※1212呼」､ダイヤル錠「0663」\nhttps://drive.google.com/file/d/1yM_GV_rTm9-TTSxleXzJYR490-OkO_h-/view"
     ],
@@ -279,8 +279,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.767822",
+      "135.430344",
       "カーサカメリア 　104",
       "ダイアル:9541"
     ],
@@ -288,8 +288,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.688477",
+      "135.161865",
       "石井町3丁目　貸家　1号室",
       "玄関横フェンス　KB1658"
     ],
@@ -297,8 +297,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.714832",
+      "135.217361",
       "Ｓａｋｕｒａ　Ａｋａｓａｋａ　202",
       "退去予定建物入口雨樋1658"
     ],
@@ -306,8 +306,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.749706",
+      "135.452698",
       "フジパレス尼崎ガーデン２番館　101",
       "フジ・アメニティサービス株式会社　072-437-0079\n1/31 退去予定　■案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)\nhttps://drive.google.com/open?id=1Hw-cDEX4EXFbOdblCLQDIxY8qAL64vR1&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
@@ -315,8 +315,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.706059",
+      "135.233109",
       "シャルマン　ドゥムール　101",
       "案内方法：AL 呼4123　ダイヤル1129or1106"
     ],
@@ -324,8 +324,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.753887",
+      "135.453171",
       "フジパレス東園田イースト　203",
       "ｵｰﾄﾛｯｸ呼0570   南京錠5524"
     ],
@@ -333,8 +333,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.732342",
+      "135.308182",
       "ＡＲＧＯ　ＡＳＨＩＹＡ　201",
       "案内方法：AL 呼4123　ダイヤル1129or1106"
     ],
@@ -342,8 +342,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.714973",
+      "135.236282",
       "アミティエ六甲　201",
       "案内方法：ダイヤル1129or1106"
     ],
@@ -351,8 +351,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.706245",
+      "135.205246",
       "フレア神戸　201",
       "案内方法：ダイヤル1129or1106"
     ],
@@ -360,8 +360,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.718281",
+      "135.28093",
       "レジデンス北青気　102、106",
       "案内方法：ダイヤル1129or1106"
     ],
@@ -369,8 +369,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.715858",
+      "135.274109",
       "メゾン・ド・ショコラ　102",
       "案内方法：ダイヤル1129or1106"
     ],
@@ -378,8 +378,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.693939",
+      "135.18985",
       "ＩＴビル　303",
       "AL 呼1111　ダイヤル1129or1106"
     ],
@@ -387,8 +387,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.709911",
+      "135.235123",
       "メゾン六甲Ⅱ　103",
       "AL 呼9567　ダイヤル1129or1106"
     ],
@@ -396,8 +396,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.710388",
+      "135.239044",
       "モレス・ヴィラ六甲　304",
       "AL：呼2727 退去後玄関錠：2127"
     ],
@@ -405,8 +405,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.715698",
+      "135.42717",
       "ＣＲＡＳＴＩＮＥ大物町１丁目　202",
       "AL：鍵ボタン＋001192＋鍵ボタン1＋決定＋0630＋決定"
     ],
@@ -431,9 +431,9 @@
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.71801",
+      "135.42691",
       "ディアコート大物　102",
       "株式会社トラストリード　06-6763-200\nカギ・エントランス横雨樋キーボックス：ダイヤル「2005」"
     ],
@@ -442,7 +442,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.756691",
-      "2023/02/06",
+      "135.416031",
       "ベアコート塚口　404",
       "株式会社エムエープランニング　06-6423-1111\n空室　MB8795"
     ],
@@ -451,7 +451,7 @@
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.747433",
-      "#REF!",
+      "135.39061",
       "ジュネス武庫之荘 202",
       "鍵：エイワーク武南　06-6437-2020"
     ],
@@ -463,15 +463,6 @@
       "135.164719",
       "プレサンスKOBE須佐野ハーバル　801",
       "アシスト兵庫駅前店に鍵あり\nTEL:078-515-2022"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ヴィサージュ武庫之荘　505",
-      "有限会社アーサホーム　鍵：エイワーク武南"
     ],
     [
       "",
@@ -495,26 +486,26 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.753731",
+      "135.401947",
       "プチ富松301",
       "アエラハウス株式会社　06-6424-1800\nダ：1800"
     ],
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.7556",
+      "135.417618",
       "フジパレス塚口本町Ⅰ番館",
       "AL：＊0570呼\n南：5524"
     ],
     [
       "",
       "写真撮影",
-      "",
-      "",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.718281",
+      "135.28093",
       "レジデンス北青気　1060",
       "【旭化成】案内方法：ダイヤル1129or1106\n空家"
     ],
@@ -588,7 +579,7 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
+      "",
       "",
       "あゆみ六甲ハウス　301　202　303"
     ],
@@ -596,8 +587,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "2023/02/06",
+      "",
+      "",
       "エルデ六甲　201、205、306"
     ],
     [
@@ -667,7 +658,7 @@
     [
       "",
       "写真撮影",
-      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "ピエ・デル・モンテ摩耶　201"
@@ -724,8 +715,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "",
+      "",
       "リヴェール北野坂　603"
     ],
     [
@@ -764,8 +755,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
-      "#REF!",
+      "34.752426",
+      "135.446609",
       "レガリア東園田",
       "写真取りにいけるか確認して撮影!全部屋とって､SUUMO再募集!"
     ],
@@ -909,7 +900,7 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "#REF!",
+      "34.709484",
       "135.235306",
       "メゾン・ド・六甲パートⅤ　208　306",
       "ダイヤル8181/ダイヤル錠:8181"
@@ -1109,77 +1100,77 @@
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
       "",
-      "写真撮影",
+      "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg"
     ],
     [
