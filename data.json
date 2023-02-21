@@ -223,10 +223,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.765385",
-      "135.38269",
+      "",
+      "",
       "コナビレッジ　413",
       "管理人の所に鍵貰いに行く"
     ],
@@ -277,10 +277,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.767822",
-      "135.430344",
+      "",
+      "",
       "カーサカメリア 　104",
       "ダイアル:9541"
     ],
@@ -739,7 +739,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.752426",
       "135.446609",
-      "レガリア東園田",
+      "レガリア東園田　（201.202.203.205.301以外）202パノラマ",
       "写真取りにいけるか確認して撮影!全部屋とって､SUUMO再募集!"
     ],
     [
@@ -1072,8 +1072,12 @@
     ],
     [
       "",
+      "撮影完了",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "レガリア東園田　（201.202.203.205.301）",
+      "写真取りにいけるか確認して撮影!全部屋とって､SUUMO再募集!"
     ],
     [
       "",
