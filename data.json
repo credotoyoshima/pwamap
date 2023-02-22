@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J620",
+  "range": "'スポットデータ'!A1:J611",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -52,15 +52,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アルファレガロ神戸ウエスト　705",
-      "株式会社TAKUTO　06-6201-1600\nAL:呼2495　ジョイナー:3232"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.686199",
@@ -83,8 +74,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.681698",
       "135.172058",
-      "リッチウォーク大倉山　401",
-      "株式会社Best Service　072-350-3165\n玄関ダイヤル：1031"
+      "リッチウォーク大倉山　401"
     ],
     [
       "",
@@ -103,15 +93,6 @@
       "135.19519",
       "クロワートル二宮　301",
       "照喜屋不動産株式会社　078-231-5800　←カギ\nhttps://drive.google.com/open?id=12vkDORGUdtvvhNCkP4d3ZaHIu2Lo5Z-h&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リバーサイド山芦屋　101",
-      "【旭化成】ダイヤル1129or1106"
     ],
     [
       "",
@@ -178,24 +159,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＩＴビル　401",
-      "【旭化成】案内方法：AL 呼※1111　ダイヤル1129"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＩＴ第Ⅱビル 302・401",
-      "【旭化成】案内方法：AL 呼2415　ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.713383",
@@ -211,15 +174,6 @@
       "135.182281",
       "花隈ダイヤハイツ　517",
       "東急住宅リース株式会社　運営本部関西支店　050-3177-4359\n空家　現地ドアにダイヤル鍵　Ｎｏ．2929"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "コナビレッジ　413",
-      "管理人の所に鍵貰いに行く"
     ],
     [
       "",
@@ -241,15 +195,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジデンス北青気　102、106",
-      "案内方法：ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.693939",
@@ -265,15 +210,6 @@
       "135.168472",
       "アドバンス神戸レイソレ　",
       "株式会社アズ・スタット　06-6150-4148　新築　内覧予約必要　\n※HP参照　　(206号及び210号内覧可能)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "カーサカメリア 　104",
-      "ダイアル:9541"
     ],
     [
       "",
@@ -335,7 +271,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.706245",
       "135.205246",
-      "フレア神戸　201",
+      "フレア神戸",
       "案内方法：ダイヤル1129or1106"
     ],
     [
@@ -454,15 +390,6 @@
       "135.417618",
       "フジパレス塚口本町Ⅰ番館",
       "AL：＊0570呼\n南：5524"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジデンス北青気　1060",
-      "【旭化成】案内方法：ダイヤル1129or1106\n空家"
     ],
     [
       "",
@@ -697,15 +624,6 @@
       "",
       "",
       "Ｃａｓａ　Ｌｉｎｄａ 201"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レガリア東園田　（201.202.203.205.301以外）202パノラマ",
-      "写真取りにいけるか確認して撮影!全部屋とって､SUUMO再募集!"
     ],
     [
       "",
@@ -1037,13 +955,20 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "AQUA春日野道"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.696808",
+      "135.198593",
+      "メゾン・ド・ソレイユ三宮　302",
+      "ALキー:ホームメイト神戸三宮店"
     ],
     [
       "",
