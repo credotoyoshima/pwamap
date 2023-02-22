@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J626",
+  "range": "'スポットデータ'!A1:J620",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -25,7 +25,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "業者",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.75164",
       "135.392532",
@@ -52,19 +52,10 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.66354",
-      "135.167648",
-      "マツバラハイツ　103",
-      "株式会社ハウスプロメイン 三宮営業所　078-222-0868\nダ：0868\nhttps://drive.google.com/open?id=1l7izPh0LZ-vmEdmpG867FoCqE4thtqNg&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.672047",
-      "135.167831",
+      "",
+      "",
       "アルファレガロ神戸ウエスト　705",
       "株式会社TAKUTO　06-6201-1600\nAL:呼2495　ジョイナー:3232"
     ],
@@ -189,8 +180,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.693939",
-      "135.18985",
+      "",
+      "",
       "ＩＴビル　401",
       "【旭化成】案内方法：AL 呼※1111　ダイヤル1129"
     ],
@@ -198,8 +189,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.694096",
-      "135.190262",
+      "",
+      "",
       "ＩＴ第Ⅱビル 302・401",
       "【旭化成】案内方法：AL 呼2415　ダイヤル1129or1106"
     ],
@@ -237,7 +228,7 @@
       "34.735271",
       "135.295898",
       "セジュール芦屋三条町　202",
-      "旭化成\nAL：呼4123　ダイヤル1129or1106"
+      "旭化成\nAL：呼4123　ダイヤル1129or1106\n鍵ない"
     ],
     [
       "",
@@ -247,6 +238,15 @@
       "135.401947",
       "プチ富松301",
       "アエラハウス株式会社　06-6424-1800\nダ：1800"
+    ],
+    [
+      "",
+      "撮影完了",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "レジデンス北青気　102、106",
+      "案内方法：ダイヤル1129or1106"
     ],
     [
       "",
@@ -268,30 +268,12 @@
     ],
     [
       "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.758198",
-      "135.388947",
-      "アイリープラザ武庫之荘 202",
-      "AL「※1212呼」､ダイヤル錠「0663」\nhttps://drive.google.com/file/d/1yM_GV_rTm9-TTSxleXzJYR490-OkO_h-/view"
-    ],
-    [
-      "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "カーサカメリア 　104",
       "ダイアル:9541"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.688477",
-      "135.161865",
-      "石井町3丁目　貸家　1号室",
-      "玄関横フェンス　KB1658"
     ],
     [
       "",
@@ -354,15 +336,6 @@
       "34.706245",
       "135.205246",
       "フレア神戸　201",
-      "案内方法：ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.718281",
-      "135.28093",
-      "レジデンス北青気　102、106",
       "案内方法：ダイヤル1129or1106"
     ],
     [
@@ -484,10 +457,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.718281",
-      "135.28093",
+      "",
+      "",
       "レジデンス北青気　1060",
       "【旭化成】案内方法：ダイヤル1129or1106\n空家"
     ],
@@ -516,14 +489,6 @@
       "",
       "",
       "エステムコート神戸元町Ⅱザ・サロン　902\n1001，401，501"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｎ－ＣＵＢＥ 101"
     ],
     [
       "",
@@ -741,15 +706,6 @@
       "",
       "レガリア東園田　（201.202.203.205.301以外）202パノラマ",
       "写真取りにいけるか確認して撮影!全部屋とって､SUUMO再募集!"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.682411",
-      "135.180634",
-      "ザ・パークハウス神戸タワー　1610",
-      "ホームメイト株式会社　Kittiri　06-6532-2111\n2/21退去"
     ],
     [
       "",
@@ -1048,15 +1004,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.761395",
-      "135.395889",
-      "ラヴィリッシュ武庫之荘　102",
-      "株式会社ハウストレード　06-6998-1667"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.721161",
       "135.234497",
       "ランドール六甲　202",
@@ -1081,8 +1028,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.735561",
+      "135.436569",
+      "フェアリーメゾン浜　",
+      "AL:※6134　PS内にキーボックス有り　ダ:1202"
     ],
     [
       "",
