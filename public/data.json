@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J601",
+  "range": "'スポットデータ'!A1:J599",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -303,10 +303,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.678619",
-      "135.154221",
+      "",
+      "",
       "グリーンハイツ　203",
       "【旭化成】案内方法：ダイヤル1129or1106"
     ],
@@ -947,30 +947,12 @@
     ],
     [
       "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クレール常光寺　新築　102.201",
-      "※キーBOX　6318　駐輪置き場右"
-    ],
-    [
-      "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "フジパレス大物駅南Ⅴ番館　302",
       "案内方法(ｵｰﾄﾛｯｸ呼0570/R101ﾊﾟｲﾌﾟｽﾍﾟｰｽ2480)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "デイグラン　シャンドフルール　702",
-      "カギ：ダイヤル錠「5316」"
     ],
     [
       "",
