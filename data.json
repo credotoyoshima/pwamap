@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J611",
+  "range": "'スポットデータ'!A1:J607",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -52,38 +52,11 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ワコーレザ・神戸旧居留地レジデンスタワー\n204",
-      "グローバルコミュニティ株式会社 神戸支社　078-570-7540\n#SUMIKAE神戸三宮店(078-252-5030)に鍵"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クロワートル二宮　504",
-      "照喜屋不動産株式会社　078-231-5800　弊社に鍵　琴の町3丁目\nhttps://drive.google.com/open?id=12vkDORGUdtvvhNCkP4d3ZaHIu2Lo5Z-h&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.681698",
       "135.172058",
       "リッチウォーク大倉山　401"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エステムコート神戸ハーバーランド前Ⅱ\n213",
-      "株式会社ネクサスエージェント　050-5530-5600\n内覧方法：現地対応です\nhttps://drive.google.com/open?id=1cdEyEq-1kK5raHt5cJ13l1Tacf82o3zJ&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -1050,14 +1023,6 @@
       "135.16951",
       "マンエイマンション　402.503",
       "有限会社ユニバーサルコーポレーション（078-576-3000）に鍵\n物件の近く"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クレーン奥山　301"
     ],
     [
       "",
