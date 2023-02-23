@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J604",
+  "range": "'スポットデータ'!A1:J601",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -791,15 +791,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.71492",
-      "135.210297",
-      "橋本ハイツ　101",
-      "現地キーボックス　現地から電話078-737-3088"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.72361",
       "135.229828",
       "篠原北町ハイツ　202",
@@ -852,22 +843,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "中野第二ビル　2F"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "カーサツツイ　101"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.700859",
       "135.195999",
       "オーズハイツ新神戸　301",
@@ -904,8 +879,8 @@
       "",
       "撮影不可",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.684666",
-      "135.183182",
+      "",
+      "",
       "デ・リード神戸元町　902"
     ],
     [
