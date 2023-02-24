@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J599",
+  "range": "'スポットデータ'!A1:J593",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -186,21 +186,12 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.714832",
-      "135.217361",
+      "",
+      "",
       "Ｓａｋｕｒａ　Ａｋａｓａｋａ　202",
       "建物入口雨樋1658"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749706",
-      "135.452698",
-      "フジパレス尼崎ガーデン２番館　101",
-      "フジ・アメニティサービス株式会社　072-437-0079\n1/31 退去予定　■案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)\nhttps://drive.google.com/open?id=1Hw-cDEX4EXFbOdblCLQDIxY8qAL64vR1&authuser=ichiba%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -215,37 +206,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753887",
-      "135.453171",
-      "フジパレス東園田イースト　203",
-      "ｵｰﾄﾛｯｸ呼0570   南京錠5524"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.732342",
       "135.308182",
       "ＡＲＧＯ　ＡＳＨＩＹＡ　201",
       "案内方法：AL 呼4123　ダイヤル1129or1106\n退去予定"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アミティエ六甲　201",
-      "案内方法：ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フレア神戸　201",
-      "案内方法：ダイヤル1129or1106"
     ],
     [
       "",
@@ -267,19 +231,10 @@
     ],
     [
       "",
-      "無物",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "メゾン六甲Ⅱ　103",
-      "AL 呼9567　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.710388",
-      "135.239044",
       "モレス・ヴィラ六甲　304",
       "AL：呼2727 退去後玄関錠：2127"
     ],
@@ -380,7 +335,7 @@
       "34.718189",
       "135.241653",
       "サンパレス２１六甲永手　3B",
-      "-鍵は５Bの水道メーターにキーボックス(暗証番号0231)があります"
+      "鍵は５Bの水道メーターにキーボックス(暗証番号0231)があります"
     ],
     [
       "",
@@ -956,15 +911,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "CASA水明町",
-      "現地外観写真+外観パノラマ　室内は､まだ見れない"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -996,7 +942,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "レーヴメゾン出屋敷　1502　　新築"
+      "レーヴメゾン出屋敷　新築",
+      "1502､502､1103､805←4部屋撮影してください｡\nAL:呼1682、2階MBにキーボックス:8000"
     ],
     [
       "",
