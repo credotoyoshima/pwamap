@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J593",
+  "range": "'スポットデータ'!A1:J582",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -186,15 +186,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｓａｋｕｒａ　Ａｋａｓａｋａ　202",
-      "建物入口雨樋1658"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.706059",
@@ -231,24 +222,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "モレス・ヴィラ六甲　304",
-      "AL：呼2727 退去後玄関錠：2127"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＣＲＡＳＴＩＮＥ大物町１丁目　202",
-      "AL：鍵ボタン＋001192＋鍵ボタン1＋決定＋0630＋決定"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696808",
@@ -258,39 +231,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グリーンハイツ　203",
-      "【旭化成】案内方法：ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ディアコート大物　102",
-      "株式会社トラストリード　06-6763-200\nカギ・エントランス横雨樋キーボックス：ダイヤル「2005」"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.756691",
       "135.416031",
       "ベアコート塚口　404",
       "株式会社エムエープランニング　06-6423-1111\n空室　MB8795"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ジュネス武庫之荘 202",
-      "鍵：エイワーク武南　06-6437-2020"
     ],
     [
       "",
@@ -708,15 +654,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "佐々木ビル　301",
-      "First Life(078-326-3700)　に鍵行く前に電話"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696697",
@@ -840,24 +777,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レガリア東園田　（203）",
-      "203パノラマ＋外観＋共用部のみ"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フェアリーメゾン浜　406",
-      "AL:※6134　PS内にキーボックス有り　ダ:1202"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -876,14 +795,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プロスパー尼崎　501　201"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.701271",
@@ -899,15 +810,6 @@
       "135.447235",
       "エヌズグランデ　408",
       "案内時【駐車場】2,11 駐車可\n【鍵】キーバンカー駐輪場フェンス※要問合せ"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス大物駅南Ⅴ番館　302",
-      "案内方法(ｵｰﾄﾛｯｸ呼0570/R101ﾊﾟｲﾌﾟｽﾍﾟｰｽ2480)"
     ],
     [
       "",
@@ -967,8 +869,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.696808",
-      "135.198593",
+      "",
+      "読み込んでいます...",
       "メゾン・ド・ソレイユ三宮　303",
       "ALキーホームメイト三宮　担当新井090-2591-1985"
     ],
