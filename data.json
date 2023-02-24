@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J579",
+  "range": "'スポットデータ'!A1:J576",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -49,14 +49,6 @@
       "135.217804",
       "ST（エスティー）　101、201、202",
       "有限会社ハウジング神戸　078-861-0800\n兵庫県神戸市灘区倉石通５丁目１−１２ 第一徳山ビル\nhttps://drive.google.com/open?id=1_1Bg2aYFKbW7SNaSVJaIuv6xmyNeaFba&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.681698",
-      "135.172058",
-      "リッチウォーク大倉山　401"
     ],
     [
       "",
@@ -321,14 +313,6 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "アーバンクリーク　305"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
       "あゆみ六甲ハウス　301　202　303"
     ],
     [
@@ -346,14 +330,6 @@
       "",
       "",
       "ベレッツァ中道　204"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ハイムアベニュー　202"
     ],
     [
       "",
@@ -596,6 +572,14 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "リッチウォーク大倉山　401"
+    ],
+    [
+      "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.709484",
       "135.235306",
       "メゾン・ド・六甲パートⅤ　208　306",
@@ -726,15 +710,6 @@
       "135.162506",
       "エクセル上沢　602",
       "有限会社シンプル　078-578-6780　立会"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.773903",
-      "135.380478",
-      "レジデンス　Ｔ．Ｓ　のこり3部屋\n※新築につき撮影可能な全部屋",
-      "新築　大東建託パートナーズ尼崎営業所（HP参照）\n2月 完成予定（可能な全部屋撮影）\n※撮影予定物件にもリスト化してます"
     ],
     [
       "",
