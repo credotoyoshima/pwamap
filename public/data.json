@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J582",
+  "range": "'スポットデータ'!A1:J581",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -401,14 +401,6 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "インプルーブ三宮イースト　707\n旧：パークサイド春日野道駅前"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
       "ピエ・デル・モンテ摩耶　201"
     ],
     [
@@ -700,9 +692,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サウンドグレース　203"
+      "34.758137",
+      "135.408401",
+      "サウンドグレース　203",
+      "201号室パイプスペースに鍵あり\rダイヤル:1117"
     ],
     [
       "",
@@ -835,7 +828,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "インプルーブ三宮イースト　707",
+      "インプルーブ三宮イースト　707 202 801 1002",
       "ミニミニ神戸三ノ宮駅前にALに鍵\nダ：1090.4482"
     ],
     [
@@ -869,8 +862,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "読み込んでいます...",
+      "34.696808",
+      "135.198593",
       "メゾン・ド・ソレイユ三宮　303",
       "ALキーホームメイト三宮　担当新井090-2591-1985"
     ],
