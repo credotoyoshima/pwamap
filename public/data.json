@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J576",
+  "range": "'スポットデータ'!A1:J564",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -92,7 +92,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696808",
       "135.198593",
-      "メゾン・ド・ソレイユ三宮　302",
+      "メゾン・ド・ソレイユ三宮　302、303、305",
       "ＡＬ：ホームメイト神戸三宮店　090-2591-1985　担当新井\nMBに鍵"
     ],
     [
@@ -148,15 +148,6 @@
       "135.295898",
       "セジュール芦屋三条町　202",
       "旭化成\nAL：呼4123　ダイヤル1129or1106\n鍵ない"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プチ富松301",
-      "アエラハウス株式会社　06-6424-1800\nダ：1800"
     ],
     [
       "",
@@ -216,15 +207,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.696808",
-      "135.198593",
-      "メゾン・ド・ソレイユ三宮　305",
-      "株式会社ネクステージ　ホームメイトFC神戸三宮店　078-327-2020\n案内　ALキー弊社/部屋：PSかオープン\nhttps://drive.google.com/open?id=1ktZvm2D7Z2TDASVywY4FLPOFJdqNnilb&authuser=toyoshima%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.756691",
       "135.416031",
       "ベアコート塚口　404",
@@ -238,15 +220,6 @@
       "135.164719",
       "プレサンスKOBE須佐野ハーバル　801",
       "アシスト兵庫駅前店に鍵あり\nTEL:078-515-2022"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753731",
-      "135.401947",
-      "プチ富松301",
-      "アエラハウス株式会社　06-6424-1800\nダ：1800"
     ],
     [
       "",
@@ -489,15 +462,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.698452",
-      "135.198471",
-      "フラワーハイツひまわり　201",
-      "AL：呼1234　二回手摺8167"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "眺港苑　503"
@@ -659,15 +623,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サウンドグレース　203",
-      "201号室パイプスペースに鍵あり\rダイヤル:1117"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.681969",
@@ -741,15 +696,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.696808",
-      "135.198593",
-      "メゾン・ド・ソレイユ三宮　302",
-      "ALキー:ホームメイト神戸三宮店"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.701271",
       "135.196182",
       "ポコアポコ三宮アネックス　501",
@@ -793,66 +739,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レーヴメゾン出屋敷　新築",
-      "1502､502､1103､805←4部屋撮影してください｡\nAL:呼1682、2階MBにキーボックス:8000"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス立花駅西Ⅰ番館　102　103　303",
-      "1号室で撮れそうな部屋あったら取って欲しいです｡\nｵｰﾄﾛｯｸ:呼0570\nR101・R102共有ﾊﾟｲﾌﾟｽﾍﾟｰｽにキーボックス有り:2480"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス立花駅西Ⅱ番館　101　103　202　302",
-      "ｵｰﾄﾛｯｸ:呼0570\r\nR101・R102共有ﾊﾟｲﾌﾟｽﾍﾟｰｽにキーボックス有り:2480"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.696808",
-      "135.198593",
-      "メゾン・ド・ソレイユ三宮　303",
-      "ALキーホームメイト三宮　担当新井090-2591-1985"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レーヴメゾン尼崎大物",
-      "601､602､603､604←4部屋撮影してください｡\nAL:呼1682　202号PSキーボックス共通キー:8000"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.746437",
       "135.387634",
       "エルセレーノ南武庫之荘　101 102 201 202 205 301",
       "3月10日頃､撮影にいくこと！\n駐輪場後ろのフェンス、キーボックス8746"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プレステージ立花        401　204",
-      "AL「呼4567」　水道メーター"
     ],
     [
       "",
