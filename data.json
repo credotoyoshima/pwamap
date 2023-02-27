@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J564",
+  "range": "'スポットデータ'!A1:J553",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -63,24 +63,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.683407",
-      "135.182495",
-      "神戸ハーバータワー　2803F　\n",
-      "株式会社　abir　078-327-3510\n神戸市中央区三宮町3丁目9番13号に鍵 スモッティー元町店"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.711803",
-      "135.230545",
-      "ピア六甲　305",
-      "オクダ興産株式会社　078-361-0506\nMB：2738\nhttps://drive.google.com/open?id=1HioZ-cQT2sP-t2q01xTLo0gnfZ4qnYyl&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.709911",
       "135.222198",
       "モンテ王子　206",
@@ -133,15 +115,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "花隈ダイヤハイツ　517",
-      "東急住宅リース株式会社　運営本部関西支店　050-3177-4359\n空家　現地ドアにダイヤル鍵　Ｎｏ．2929"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.735271",
@@ -180,8 +153,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.732342",
-      "135.308182",
+      "",
+      "#ERROR!",
       "ＡＲＧＯ　ＡＳＨＩＹＡ　201",
       "案内方法：AL 呼4123　ダイヤル1129or1106\n退去予定"
     ],
@@ -214,19 +187,10 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プレサンスKOBE須佐野ハーバル　801",
-      "アシスト兵庫駅前店に鍵あり\nTEL:078-515-2022"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.7556",
-      "135.417618",
+      "",
+      "#ERROR!",
       "フジパレス塚口本町Ⅰ番館",
       "AL：＊0570呼\n南：5524"
     ],
@@ -501,14 +465,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エクセル上沢　602"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.707142",
@@ -605,15 +561,6 @@
     ],
     [
       "",
-      "撮影不可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾンさかえまち　303",
-      "現地立会　行く前に連絡　\nシティハウス株式会社　（090-5138-9908）"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.72361",
@@ -677,14 +624,6 @@
     ],
     [
       "",
-      "撮影不可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "デ・リード神戸元町　902"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.704952",
@@ -700,24 +639,6 @@
       "135.196182",
       "ポコアポコ三宮アネックス　501",
       "ハウスプロメイン　078-222-0868"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エヌズグランデ　408",
-      "案内時【駐車場】2,11 駐車可\n【鍵】キーバンカー駐輪場フェンス※要問合せ"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・オークラ　203",
-      "有限会社クレセント　（078-578-6780）"
     ],
     [
       "",
@@ -819,28 +740,19 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ブラン　アビタシオン　203"
+      "34.751083",
+      "135.412979",
+      "リスタ塚口（101号室＋2階全部屋）",
+      "監督に室内見せて下さいと、お願いして下さい。\nルート･イノベーションのなかせこ様に許可をもらっていると伝える"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.751083",
-      "135.412979",
-      "リスタ塚口（101＋2階全部屋）",
-      "監督に室内見せて下さいとお願いして下さい"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
-    ],
-    [
-      "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "34.755596",
+      "135.403427",
+      "カーサ　アゼリア　A201、B101",
+      "現地にカギ：4301\n内観10枚＋外観・エントランス・駐車場・駐輪場・ゴミ捨て場も必須"
     ],
     [
       "",
