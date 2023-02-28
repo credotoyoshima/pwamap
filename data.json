@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J550",
+  "range": "'スポットデータ'!A1:J549",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -164,7 +164,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.693939",
       "135.18985",
-      "",
+      "ＩＴビル　303",
       "AL 呼1111　ダイヤル1129or1106"
     ],
     [
@@ -667,15 +667,6 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "",
-      "↑　字を入力したら､自動で白くなります｡　↓　了解です！！佐藤"
-    ],
-    [
-      "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -783,8 +774,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#ERROR!",
+      "34.749382",
+      "135.391891",
       "エクレール武庫之荘　202",
       "ダイアル:8521"
     ],
