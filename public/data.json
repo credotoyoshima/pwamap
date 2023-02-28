@@ -774,8 +774,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.723682",
-      "135.421051",
+      "",
+      "#ERROR!",
       "サン・ブルーム　307　101",
       "建物前フェンスKB1658"
     ],
@@ -783,8 +783,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749382",
-      "135.391891",
+      "",
+      "#ERROR!",
       "エクレール武庫之荘　202",
       "ダイアル:8521"
     ],
@@ -799,8 +799,11 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "シャーメゾン芦屋山手　102"
     ],
     [
       "",
