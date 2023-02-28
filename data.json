@@ -133,7 +133,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影不可",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.706059",
       "135.233109",
@@ -144,8 +144,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.732342",
-      "135.308182",
+      "",
+      "",
       "ＡＲＧＯ　ＡＳＨＩＹＡ　201",
       "案内方法：AL 呼4123　ダイヤル1129or1106\n退去予定"
     ],
@@ -722,8 +722,8 @@
       "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.755596",
-      "135.403427",
+      "",
+      "",
       "カーサ　アゼリア　A201、B101",
       "現地にカギ：4301\n内観10枚＋外観・エントランス・駐車場・駐輪場・ゴミ捨て場も必須"
     ],
@@ -745,8 +745,12 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.721218",
+      "135.415329",
+      "La ville -1930-　",
+      "AL:呼1015　ｵｰﾄﾛｯｸ用ｷｰBOXはｴﾝﾄﾗﾝｽ前ﾌｪﾝｽ 案内用ｷｰBOXはPS\nダ:1202"
     ],
     [
       "",
