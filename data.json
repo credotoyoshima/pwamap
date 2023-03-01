@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J549",
+  "range": "'スポットデータ'!A1:J548",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -191,7 +191,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.718189",
       "135.241653",
-      "",
+      "サンパレス２１六甲永手　3B",
       "鍵は５Bの水道メーターにキーボックス(暗証番号0231)があります"
     ],
     [
@@ -477,15 +477,6 @@
       "",
       "メゾン・ド・六甲パートⅤ　208　306",
       "ダイヤル8181/ダイヤル錠:8181"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "#ERROR!",
-      "リーゼントマンション３F",
-      "立会　Core Eight 078-231-8221"
     ],
     [
       "",
