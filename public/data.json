@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J548",
+  "range": "'スポットデータ'!A1:J543",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -736,51 +736,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リアンジェ園田　207　301　302",
-      "AL:呼1031　ダイヤル錠　213\nめちゃくちゃ､バエるように撮って欲しいです！期待しています笑"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・ド・パルテール406　404　307　205",
-      "ダイヤル錠8181"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サン・ブルーム　307　101",
-      "建物前フェンスKB1658"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エクレール武庫之荘　202",
-      "ダイアル:8521"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "セジュール武庫之荘　201",
-      "AL「＃1234呼」\nダイヤル錠「0663」　"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -806,8 +761,11 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "カサーレ記田Ｂ棟　102"
     ],
     [
       "",
