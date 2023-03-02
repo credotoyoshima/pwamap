@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J534",
+  "range": "'スポットデータ'!A1:J522",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -52,15 +52,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "モンテ王子　20５",
-      "株式会社関西ホームサービス　06-6787-8111\nAL：呼3364（3365かも）　ダ6787\nhttps://drive.google.com/open?id=1Hs7ygnRrbkfIJUEVLBiDnArw9wBMiHqQ&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.696808",
@@ -79,39 +70,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "T‘S　FLAT　101",
-      "ルークスター株式会社　078-811-4611\n現地から電話"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ディアコート　101",
-      "キーボックス：1024　管理看板フェンス "
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.735271",
       "135.295898",
       "セジュール芦屋三条町　202",
       "旭化成\nAL：呼4123　ダイヤル1129or1106\n鍵ない"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＩＴビル　402、501､303",
-      "【旭化成】案内方法：AL 呼1111 ダイヤル 1129or1106"
     ],
     [
       "",
@@ -284,7 +248,8 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "ピエ・デル・モンテ摩耶　201"
+      "ピエ・デル・モンテ摩耶　201",
+      "現地：明日電話"
     ],
     [
       "",
@@ -459,15 +424,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・ド・六甲パートⅤ　208　306",
-      "ダイヤル8181/ダイヤル錠:8181"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.716717",
@@ -501,33 +457,6 @@
       "135.23996",
       "プレステージ六甲道駅前2　404",
       "コスモ・フロント株式会社（078-672-7555）立ち合い\n行く前に電話"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "篠原北町ハイツ　202",
-      "現地鍵　行く前に連絡　アップルホーム（078-802-8686）"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンパレス21　401",
-      "【キーBOX等】 PS内設置キーBOX(1503)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ピュアハイツ　101",
-      "階段上の縦雨樋ダ：9000"
     ],
     [
       "",
@@ -567,39 +496,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "AQUA春日野道　401",
-      "現地ダイヤル1413"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ポコアポコ三宮アネックス　501",
-      "ハウスプロメイン　078-222-0868"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.680378",
       "135.16951",
       "マンエイマンション　402.503",
       "有限会社ユニバーサルコーポレーション（078-576-3000）に鍵\n物件の近く"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "インプルーブ三宮イースト　707 202 801 1002",
-      "ミニミニ神戸三ノ宮駅前にALに鍵\nダ：1090.4482"
     ],
     [
       "",
@@ -625,15 +527,6 @@
       "",
       "",
       "フォルム六甲道　301"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フラワーハイツひまわり　201",
-      "AL呼1234、2階手すりにキーBOX設置⇒8167で開錠"
     ],
     [
       "",
@@ -862,12 +755,16 @@
       "",
       "",
       "ＶＩＶＡＣＥ Ｎａｇａｓｕｈｏｎｄｏｒｉ　\n201",
-      "髙松エステート株式会社　06-6308-7401　2/末退去予定"
+      "なし物⇒イタンジに情報がある期間のみ撮影可能\n消えてたら契約まで進んでるので無理との事です。"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.704594",
+      "135.234543",
+      "アクロス神戸灘アパートメン　303",
+      "オートロック→呼0088　　玄関ダイヤル錠→1031"
     ],
     [
       "",
