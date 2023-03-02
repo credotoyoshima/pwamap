@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J543",
+  "range": "'スポットデータ'!A1:J542",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -615,10 +615,10 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.700493",
-      "135.208984",
+      "",
+      "",
       "インプルーブ三宮イースト　707 202 801 1002",
       "ミニミニ神戸三ノ宮駅前にALに鍵\nダ：1090.4482"
     ],
@@ -746,15 +746,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.752216",
-      "135.385666",
-      "フローレンス武庫之荘Ⅲ　201",
-      "カギ確認お願いします→火曜日水曜日休みやーーー(T_T)\nひどいやん（泣）"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "ｏｎｅ　ｇｏ　ｃｒｅｓｔ　305　【新築未入居】"
@@ -769,98 +760,174 @@
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.75906",
+      "135.395279",
+      "シェリール武庫之荘　117",
+      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(南京錠5524)"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.71936",
+      "135.387741",
+      "フジパレス武庫川Ⅴ番館　103",
+      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(南京錠5524)"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.760109",
+      "135.395889",
+      "Sun Moon 武庫之荘Ⅱ番館　202",
+      "無し物でも撮影すること！！！\nフジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.716118",
+      "135.425354",
+      "フジパレス大物駅南　103",
+      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.752216",
+      "135.385666",
+      "フローレンス武庫之荘Ⅲ　201",
+      "カギ確認お願いします→火曜日水曜日休みやーーー(T_T)\nひどいやん（泣）"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.752438",
+      "135.45195",
+      "アールグレイコート（全9戸）",
+      "株式会社JPMC 大阪管理センター　050-1743-4963\r\n2023年3月24日 完成予定（完成後、外観＋共用＋室内＋パノラマ）"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.755402",
+      "135.448257",
+      "リブリ・スカイブルースター　207",
+      "株式会社アーキテクトディベロッパー 大阪支店　06-6630-8431\n2/26 退去予定（画質悪いので撮り直し）\n写真撮影できないか頼んでもらえる??"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.736866",
+      "135.436417",
+      "リブリ・リアン尼崎　106",
+      "株式会社アーキテクトディベロッパー 大阪支店　06-6630-8431\n2/26 退去予定（画質悪いので撮り直し）←外観＋共用も\n写真撮影できないか頼んでもらえる??"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.720242",
+      "135.404297",
+      "oak出屋敷　103",
+      "株式会社アーキテクトディベロッパー 大阪支店　06-6630-8431\nあり物⇒電物で鍵の場所確認"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.748646",
+      "135.452682",
+      "フジパレス阪急園田駅東Ⅰ番館　302",
+      "フジ・アメニティサービス株式会社　072-437-0079"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.75156",
+      "135.407028",
+      "フジパレス南塚口Ⅵ番館　205",
+      "フジ・アメニティサービス株式会社　072-437-0079"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.732407",
+      "135.399994",
+      "ヴィラ・デュオ A棟　103",
+      "大和リビング阪神営業所　0798-63-8282　　3/11入居可能"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.720867",
+      "135.396301",
+      "Ｔ‘sコート水明　",
+      "大和リビング株式会社　阪神営業所　0798-63-8282\n新築　３月完成予定"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.746494",
+      "135.387024",
+      "（仮）Ｄ-ｒｏｏｍ南武庫之荘４丁目 ",
+      "101 102 103 201 202 203 301 302 303\n大和リビング　全部屋撮影すること\n3月1日に確認する"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.753437",
+      "135.391617",
+      "レジーナウエスト武庫之荘",
+      "コーナン地所株式会社　06-6438-5121　新築　３月入居予定"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.756866",
+      "135.455246",
+      "グランリッチ園田　202",
+      "株式会社レンタックス　06-6990-7023\n2月末 退去予定　オートロック：呼4480　カギ：水道メーター"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.715073",
+      "135.423767",
+      "クリエオーレ大物町　102",
+      "クラセルホーム株式会社　06-6170-8065\n2/28 退去予定"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.722832",
+      "135.407059",
+      "エスリード尼崎昭和通　605",
+      "株式会社ELプランニング　06-6990-2300　　2/末退去予定"
     ],
     [
       "",
-      "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.72942",
+      "135.431168",
+      "ＶＩＶＡＣＥ Ｎａｇａｓｕｈｏｎｄｏｒｉ　\n201",
+      "髙松エステート株式会社　06-6308-7401　2/末退去予定"
     ],
     [
       "",
