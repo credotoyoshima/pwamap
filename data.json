@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J522",
+  "range": "'スポットデータ'!A1:J520",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -153,8 +153,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.662289",
+      "135.170837",
       "カサアレグリア　101",
       "AL:呼1304　部屋オープン"
     ],
@@ -178,8 +178,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.719852",
+      "135.23645",
       "あゆみ六甲ハウス　　303",
       "名刺をFAXで送る"
     ],
@@ -195,8 +195,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.674679",
+      "135.163712",
       "ベレッツァ中道　204",
       "AL：呼0602　PSにそのまま鍵"
     ],
@@ -237,8 +237,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.71006",
+      "135.219223",
       "ルネッサンス王子　601、602",
       "玄関突き当りみぎAL:0009　玄関横水道メーター"
     ],
@@ -246,10 +246,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.713791",
+      "135.220459",
       "ピエ・デル・モンテ摩耶　201",
-      "現地：明日電話"
+      "現地：行く日に連絡"
     ],
     [
       "",
@@ -288,8 +288,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.721691",
+      "135.221481",
       "グランパラッシオ六甲高尾通　406",
       "部屋の不具合で入れない　　また連絡"
     ],
@@ -314,16 +314,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "マンエイマンション　402"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.684582",
+      "135.181458",
       "ライオンズマンション神戸元町通　701",
       "ピタットハウス元町店に鍵\n078-392-2333"
     ],
@@ -365,26 +357,18 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.677887",
+      "135.176941",
       "眺港苑　503",
       "エントランス右PS　ダ：1090"
     ],
     [
       "",
-      "写真撮影",
+      "無物",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "ざ・してぃ六甲山手５　105"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "マンエイマンション　503"
     ],
     [
       "",
@@ -407,9 +391,10 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジワラハイツＡ棟　102"
+      "34.676483",
+      "135.161926",
+      "フジワラハイツＡ棟　102",
+      "現地：8844，4488のどっちか"
     ],
     [
       "",
