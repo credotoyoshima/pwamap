@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J520",
+  "range": "'スポットデータ'!A1:J492",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -142,37 +142,12 @@
     ],
     [
       "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エステムコート神戸元町Ⅱザ・サロン　902\n1001，401，501",
-      "3/31退去予定"
-    ],
-    [
-      "",
       "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "カサアレグリア　101",
       "AL:呼1304　部屋オープン"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランディア旗塚通　102"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アドバンス神戸グルーブ　505"
     ],
     [
       "",
@@ -202,39 +177,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ライオンズ灘・都通　203"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ワコーレザ・神戸トアロード　1208"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サムティ三宮レガニール　1102",
-      "3月末退去予定"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シャルム中道　503"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.71006",
@@ -253,62 +195,11 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラ・セーヌ六甲　502"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "レジェロ大倉山　302"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ルミエールダイドー　1005"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エフ・コート神戸中山手通　402",
-      "3月末退去"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721691",
-      "135.221481",
-      "グランパラッシオ六甲高尾通　406",
-      "部屋の不具合で入れない　　また連絡"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プレサンス神戸駅前グランツ　407",
-      "4月中旬退去予定"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リヴェール北野坂　603"
     ],
     [
       "",
@@ -364,22 +255,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ざ・してぃ六甲山手５　105"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ワコーレ六甲アーベイン 105"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.707142",
@@ -404,14 +279,6 @@
       "135.242722",
       "シャトラン弓木壱番館　301、310、202、108",
       "現地付いてから電話"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リッチウォーク大倉山　401"
     ],
     [
       "",
@@ -448,15 +315,6 @@
       "135.23996",
       "プレステージ六甲道駅前2　404",
       "コスモ・フロント株式会社（078-672-7555）立ち合い\n行く前に電話"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.705555",
-      "135.209946",
-      "NHエステート王子公園　202",
-      "【内覧可】1階階段手摺 黒キーBOX【8010"
     ],
     [
       "",
@@ -539,22 +397,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グルーブ三宮アリア　302"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾンコンフォール六甲　202"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.721218",
@@ -580,42 +422,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シェリール武庫之荘　117（確認済：カナメ）",
-      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(南京錠5524)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス武庫川Ⅴ番館　103\n（カナメにて登録済み）",
-      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(南京錠5524)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Sun Moon 武庫之荘Ⅱ番館　202\n（カナメにて登録済み）",
-      "無し物でも撮影すること！！！\nフジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス大物駅南　103（カナメにて登録済み）\n※外観、ゴミ置場写ってない方向もほしいです",
-      "フジ・アメニティサービス株式会社　072-437-0079\n2/28 退去予定　案内方法(ｵｰﾄﾛｯｸ呼0570/南京錠5524)"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.752216",
@@ -634,39 +440,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リブリ・スカイブルースター　207（確認済：カナメ）",
-      "なし物→撮影可能ですが、クリーニングが終了していないので生活感があるかもしれません。\nまた、業者の人がいると思いますがご了承下さい。\n12時頃予約済み⇒AL：1305　カギ：PSにキーBOX　3346"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.736866",
       "135.436417",
       "リブリ・リアン尼崎　106",
       "なし物→撮影可能ですが、クリーニングが終了していないので生活感があるかもしれません。\nまた、業者の人がいると思いますがご了承下さい。\n15時頃予約済み⇒AL：♯1305　106号室PSにキーBOX　6982"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "oak出屋敷　103（確認済：カナメ）",
-      "あり物⇒14時頃予約済み\nAL：呼1305　階段下にキーBOX　3346"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス阪急園田駅東Ⅰ番館　302\n（確認済：カナメ）",
-      "なし物⇒撮影可能　AL：呼0570　南京錠：5524"
     ],
     [
       "",
@@ -685,15 +464,6 @@
       "135.399994",
       "ヴィラ・デュオ A棟　103",
       "なし物⇒リフォーム中（AL 呼7777 キーボックス 3672 103号室横雨樋 ）"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｔ‘sコート水明（カナメにて登録済）",
-      "大和リビング株式会社　阪神営業所　0798-63-8282\n新築　内覧日4/1～　外観＋共用撮影お願いします"
     ],
     [
       "",
@@ -721,15 +491,6 @@
       "135.455246",
       "グランリッチ園田　202",
       "株式会社レンタックス　06-6990-7023\n2月末 退去予定　オートロック：呼4480　カギ：水道メーター"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クリエオーレ大物町　102（カナメにて登録済）",
-      "なし物⇒撮影可能\n2/28に退去したばかりなので、生活感あるかも。キーBOX　8065"
     ],
     [
       "",
