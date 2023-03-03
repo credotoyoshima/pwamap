@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J492",
+  "range": "'スポットデータ'!A1:J486",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -31,24 +31,6 @@
       "135.392532",
       "C-House武庫之荘店",
       "株式会社クレドの武庫之荘店です。"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ST（エスティー）　101",
-      "有限会社ハウジング神戸　078-861-0800\n兵庫県神戸市灘区倉石通５丁目１−１２ 第一徳山ビル　　\nhttps://drive.google.com/open?id=1_1Bg2aYFKbW7SNaSVJaIuv6xmyNeaFba&authuser=kaname%40credoweb.co.jp&usp=drive_fs"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クロワートル二宮　301",
-      "照喜屋不動産株式会社　078-231-5800　←カギ\nhttps://drive.google.com/open?id=12vkDORGUdtvvhNCkP4d3ZaHIu2Lo5Z-h&authuser=yamaoka%40credoweb.co.jp&usp=drive_fs"
     ],
     [
       "",
@@ -106,15 +88,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・ド・ショコラ　102",
-      "案内方法：ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.7556",
@@ -144,8 +117,8 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.662289",
+      "135.170837",
       "カサアレグリア　302､603､503",
       "行く前､空室確認要（ハウスバンク 078-737-4500）\nAL:呼1304　部屋オープン"
     ],
@@ -165,15 +138,6 @@
       "",
       "",
       "エルデ六甲　201、205、306"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ベレッツァ中道　204",
-      "AL：呼0602　PSにそのまま鍵"
     ],
     [
       "",
@@ -264,15 +228,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジワラハイツＡ棟　102",
-      "現地：8844，4488のどっちか"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.717918",
@@ -342,15 +297,6 @@
       "135.234497",
       "ランドール六甲　202",
       "駐輪場柱に鍵BOX設置4711　カギはBOX内にあり"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "マンエイマンション　402.503",
-      "有限会社ユニバーサルコーポレーション（078-576-3000）に鍵\n物件の近く"
     ],
     [
       "",
