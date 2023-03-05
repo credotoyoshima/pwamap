@@ -9,7 +9,7 @@
       "緯度",
       "経度",
       "スポット名",
-      "備考",
+      "メモ",
       "紹介文",
       "Instagram",
       "Twitter"
@@ -577,7 +577,7 @@
     ],
     [
       "",
-      "写真撮影",
+      "撮影完了",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
