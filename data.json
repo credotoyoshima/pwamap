@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J479",
+  "range": "'スポットデータ'!A1:J478",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -338,16 +338,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.721218",
-      "135.415329",
-      "La ville-1930-　1005",
-      "",
-      "AL:呼1015　ｵｰﾄﾛｯｸ用ｷｰBOXはｴﾝﾄﾗﾝｽ前ﾌｪﾝｽ 案内用ｷｰBOXはPS\nダ:1202"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.698547",
       "135.202118",
       "ｏｎｅ　ｇｏ　ｃｒｅｓｔ　305　【新築未入居】"
@@ -649,8 +639,12 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "Ｂｒｉｌｌｉａ　Ｔｏｗｅｒ神戸元町　1402",
+      "３月中旬"
     ],
     [
       "",
