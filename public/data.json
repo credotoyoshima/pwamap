@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J478",
+  "range": "'スポットデータ'!A1:J473",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -56,16 +56,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＡＲＧＯ　ＡＳＨＩＹＡ　201",
-      "",
-      "案内方法：AL 呼4123　ダイヤル1129or1106\n退去予定"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.7556",
@@ -73,16 +63,6 @@
       "フジパレス塚口本町Ⅰ番館",
       "",
       "AL：＊0570呼\n南：5524"
-    ],
-    [
-      "",
-      "撮影不可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アスヴェルみなと元町OceanFront　401",
-      "",
-      "ホームメイトFC三宮店に鍵"
     ],
     [
       "",
@@ -131,14 +111,6 @@
       "ピエ・デル・モンテ摩耶　201",
       "",
       "現地：行く日に連絡"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジェロ大倉山　302"
     ],
     [
       "",
@@ -212,12 +184,12 @@
     ],
     [
       "",
-      "無物",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "シャトラン弓木壱番館　301、310、202、108",
-      "",
+      "この物件､写真撮影させてもらって!\n山岡主任か石川部長やったら､撮らせてもらえる!!",
       "現地付いてから電話：078-321-6071"
     ],
     [
@@ -299,14 +271,6 @@
       "エルセレーノ南武庫之荘　  205 ",
       "",
       "3月10日頃､撮影にいくこと！\n駐輪場後ろのフェンス、キーボックス8746"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラフィーネ芦屋大原　202　302　"
     ],
     [
       "",
@@ -613,16 +577,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.735798",
-      "135.43074",
-      "Ｃａｓａ Ｃｉｅｌｏ尼崎　101  ",
-      "",
-      "101(3/5退去)　305(3/26退去)\n外観と共用は撮影済\n株式会社Robot Home　大阪支店　06-6226-7032　"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "サンプラザ塚口　210　407"
@@ -692,8 +646,13 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.735798",
+      "135.43074",
+      "Ｃａｓａ Ｃｉｅｌｏ尼崎　101  ",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "101(3/5退去)　305(3/26退去)\r\n外観と共用は撮影済\r\n株式会社Robot Home　大阪支店　06-6226-7032　"
     ],
     [
       "",
