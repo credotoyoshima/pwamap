@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J473",
+  "range": "'スポットデータ'!A1:J462",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -322,16 +322,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フローレンス武庫之荘Ⅲ　201",
-      "なし物→撮影可能　",
-      "AL：※1114呼　カギはオープン"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -342,16 +332,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リブリ・リアン尼崎　106",
-      "",
-      "なし物→撮影可能ですが、クリーニングが終了していないので生活感があるかもしれません。\nまた、業者の人がいると思いますがご了承下さい。\n15時頃予約済み⇒AL：♯1305　106号室PSにキーBOX　6982"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -359,26 +339,6 @@
       "フジパレス南塚口Ⅵ番館　205",
       "",
       "3/12 退去予定\n案内方法(ｵｰﾄﾛｯｸ＊0570呼/南京錠5524)"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ヴィラ・デュオ A棟　103",
-      "",
-      "なし物⇒リフォーム中（AL 呼7777 キーボックス 3672 103号室横雨樋 ）"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランリッチ園田　202",
-      "株式会社レンタックス　06-6990-7023\n2月末 退去予定",
-      "オートロック：呼4480　カギ：水道メーター"
     ],
     [
       "",
@@ -401,41 +361,11 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラージヒル尼崎東　102",
-      "102の写真を302にも登録\n※間取り合ってるか要確認！",
-      "AL「呼7610」部屋オープン\n"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フジパレス阪急園田駅東Ⅲ番館 302",
-      "",
-      "オートロック呼0570　南京錠5524"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.737614",
       "135.40744",
       "パークコート三反田　407"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ロイコートサム　101",
-      "",
-      "玄関横の樋にキーBOX：1031"
     ],
     [
       "",
@@ -464,16 +394,6 @@
       "",
       "",
       "シュトラール101"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フォレステージュ武庫之荘 205 109",
-      "",
-      "オートロック無　ダイヤル1030or1400\r\nブレーカーの主電源オフにしないでください。"
     ],
     [
       "",
@@ -534,36 +454,6 @@
       "(仮)常松1丁目ハイツ",
       "",
       "4月完成予定につき、外観＋外観パノラマのみ"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ａｐｒｉｃｏｔ　ａｇａｔｅ　102",
-      "",
-      "階段手すり　1009"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ビックアーチ　201",
-      "",
-      "退去予定の為、外観＋共用のみ\nAL：※1192呼"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ディアコート名神　Ｂ棟　202",
-      "",
-      "エントランス雨樋1658"
     ],
     [
       "",
