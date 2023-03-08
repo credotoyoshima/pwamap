@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J460",
+  "range": "'スポットデータ'!A1:J459",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -459,17 +459,11 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.742512",
+      "135.412598",
+      "サンプラザ塚口　210　407",
       "",
-      "",
-      "スリール尼崎ウエスト　204"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンプラザ塚口　210　407"
+      "AL:呼5538　ダイアル錠:0716"
     ],
     [
       "",
@@ -512,17 +506,21 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.755459",
+      "135.412109",
+      "ナッツダムスタジオーネ塚口　403",
       "",
-      "",
-      "ナッツダムスタジオーネ塚口　403"
+      "たぶん､部屋のPSに鍵ある（ダ: 1202）\n申込入ってる住戸の為､人が住んでないか要注意で（笑"
     ],
     [
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.747051",
+      "135.392487",
+      "ハイツ大和Ⅱ　301",
       "",
-      "",
-      "ハイツ大和Ⅱ　301"
+      "AL:呼5963\n301号室のPSにキーBOXあり（ダ: 1202）"
     ],
     [
       "",
@@ -914,23 +912,38 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "アドバンス神戸レイソレ　214.411.7110.1213",
+      "新築　優先"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ラグゼ尼崎ＷＥＳＴ　202"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ソレイユ・ド元町 102、305、508",
+      "",
+      "ピタットハウス元町店様(078-392-2333)\nsumo-T元町店様(078-327-3510)どちらにもカギあり"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "マイコート六甲Ⅰ"
     ],
     [
       "",
