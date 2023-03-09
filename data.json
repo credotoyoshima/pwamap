@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J453",
+  "range": "'スポットデータ'!A1:J452",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -883,14 +883,6 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
-      "ラグゼ尼崎ＷＥＳＴ　202"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
       "マイコート六甲Ⅰ　103",
       "",
       "AL:呼1111　部屋:ダイヤル錠4146"
@@ -954,9 +946,11 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.735123",
+      "135.405487",
+      "七松ハイツ　203",
       "",
-      "",
-      "七松ハイツ　203"
+      "建物の西側ガスメーター　ダイヤル　0228"
     ],
     [
       "",
@@ -1014,18 +1008,29 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ＫＡＩＳＥＩ神戸海岸通　403"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ローレル相楽園 1303"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ラグゼ尼崎ＷＥＳＴ　202",
+      "",
+      "AL呼4146\nダイヤル4146かPS内"
     ],
     [
       "",
