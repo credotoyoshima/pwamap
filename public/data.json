@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J451",
+  "range": "'スポットデータ'!A1:J450",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -860,16 +860,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンキストＭＺ－サクラ　206",
-      "",
-      "案内方法(南京錠5524)"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -1043,8 +1033,8 @@
       "",
       "",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
+      "34.712891",
+      "135.38327",
       "武庫川アプローズ　102",
       "",
       "麻田さん　080-4012-4798"
