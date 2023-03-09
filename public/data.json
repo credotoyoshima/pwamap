@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J450",
+  "range": "'スポットデータ'!A1:J445",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -421,7 +421,7 @@
     ],
     [
       "",
-      "撮影完了",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
@@ -501,26 +501,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リーストラクチャー南武庫之荘　502",
-      "36～37点のやつ\n案内方法調べて～",
-      "ALナシ　5F～屋上の踊り場にキーBOX「7777」"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン武庫之荘ＷＥＳＴ　302",
-      "36～37点のやつ\n案内方法調べて～",
-      "玄関南京錠『2438』"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -538,16 +518,6 @@
       "ピア武庫之荘　303",
       "36～37点のやつ\n案内方法調べて～",
       "3月末退去予定⇒レインズ写真使ってください"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パシフィック南武庫之荘　518",
-      "36～37点のやつ\n案内方法調べて～",
-      "AL：呼2341　ダイヤル6316"
     ],
     [
       "",
@@ -581,16 +551,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エダム武庫之荘　104",
-      "36～37点のやつ\n案内方法調べて～",
-      "コーナン地所株式会社　06-6438-5121\n"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.750889",
@@ -598,16 +558,6 @@
       "エクシード武庫之荘Ⅱ407　508",
       "36～37点のやつ\n案内方法調べて～",
       "駐車場にALのキーBOX　0047\nﾀﾞｲﾔﾙ　0047"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アルテハイム武庫之荘　305",
-      "36～37点のやつ\n案内方法調べて～",
-      "AL呼2306\nﾀﾞｲﾔﾙ　2141"
     ],
     [
       "",
@@ -1031,7 +981,7 @@
     ],
     [
       "",
-      "",
+      "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.712891",
       "135.38327",
