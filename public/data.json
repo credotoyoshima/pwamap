@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J445",
+  "range": "'スポットデータ'!A1:J444",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1036,15 +1036,6 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.747505",
-      "135.385635",
-      "Aurora Court武庫之荘　605",
-      "コーナン地所"
-    ],
-    [
-      "",
-      "写真撮影",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.744091",
       "135.395676",
       "アコード水堂町(アコード　ミズドウチョウ)102",
@@ -1067,7 +1058,7 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.758839",
       "135.400696",
-      "アルデール・カサ",
+      "アルデール・カサ　203",
       "髙松エステート",
       "AL:呼2324　キー：PS内キーボックス5462又はダイヤル錠546"
     ],
@@ -1077,9 +1068,9 @@
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.74548",
       "135.38681",
-      "ヴィサージュ武庫之荘",
+      "ヴィサージュ武庫之荘　301",
       "アーサホーム",
-      "エイワーク武庫之荘南"
+      "エイワーク武庫之荘南　06-6437-2020"
     ],
     [
       "",
