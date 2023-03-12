@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J438",
+  "range": "'スポットデータ'!A1:J409",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -156,16 +156,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エルーテ 502",
-      "",
-      "案内方法（1Fカフェ　LANAI　078-802-7272）"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.717918",
@@ -196,36 +186,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Ｋｉｔａｎｏ　Ｆｌａｔｓ　Ｐｌｕｓ　404",
-      "",
-      "鍵　コーエイ不動産078-230-8111（中央区中山手通2丁目10-20）"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "オーズハイツ新神戸　301",
-      "",
-      "担当岩井さん090-4301-6665　立会　行く前に電話"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ランドール六甲　202",
-      "",
-      "駐輪場柱に鍵BOX設置4711　カギはBOX内にあり"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.746437",
@@ -233,16 +193,6 @@
       "エルセレーノ南武庫之荘　  205 ",
       "",
       "3月10日頃､撮影にいくこと！\n駐輪場後ろのフェンス、キーボックス8746"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フォルム六甲道　301",
-      "",
-      "MB:1631"
     ],
     [
       "",
@@ -305,41 +255,11 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アクロス神戸灘アパートメント　303",
-      "",
-      "オートロック→呼0088　　玄関ダイヤル錠→1031"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "パークコート三反田　407"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クリエイトビュー三宮磯上公園　1105",
-      "",
-      "AL:＊1478呼　部屋オープン"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シュトラール101",
-      "",
-      "AL呼7545　玄関鍵　PS内"
     ],
     [
       "",
@@ -353,36 +273,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "タウンコート小河通　205",
-      "【旭化成】空室",
-      "ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランド上祇園　303",
-      "【旭化成】空室",
-      "AL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エスコート山根　101",
-      "【旭化成】空室",
-      "AL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.718208",
@@ -390,26 +280,6 @@
       "カルム中町　202",
       "【旭化成】空室\n※102号室にも登録要（バルコニー、眺望以外）",
       "AL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "(仮)常松1丁目ハイツ",
-      "",
-      "4月完成予定につき、外観＋外観パノラマのみ"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "サンプラザ塚口　210　407",
-      "",
-      "AL:呼5538　ダイアル錠:0716"
     ],
     [
       "",
@@ -430,26 +300,6 @@
       "あんしん+稲葉荘　103､201",
       "",
       "部屋めっちゃきたない｡3月20日ごろに撮りにいく\nエントランスキーボックス:7000"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ナッツダムスタジオーネ塚口　403",
-      "",
-      "たぶん､部屋のPSに鍵ある（ダ: 1202）\n申込入ってる住戸の為､人が住んでないか要注意で（笑"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ハイツ大和Ⅱ　301",
-      "",
-      "AL:呼5963\n301号室のPSにキーBOXあり（ダ: 1202）"
     ],
     [
       "",
@@ -754,15 +604,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "クリエオーレ大物町町　202",
-      "クラセルホーム株式会社　06-6170-8065\r\n2/28 退去予定"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -828,16 +669,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "武庫川東グランドハイツ　202",
-      "",
-      "PS内に鍵あり　ダ：1126"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -845,26 +676,6 @@
       "サンビルダー春日野道　101",
       "078-231-5550",
       "ダイヤル：110"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "七松ハイツ　203",
-      "",
-      "建物の西側ガスメーター　ダイヤル　0228"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エクセル武庫川Ⅱ　201",
-      "",
-      "ALなし　南京錠0130"
     ],
     [
       "",
@@ -917,32 +728,12 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ラグゼ尼崎ＷＥＳＴ　202",
-      "",
-      "AL呼4146\nダイヤル4146かPS内"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "アドバンス神戸ラフィナート　301.502.604",
       "3月退去予定"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "武庫川アプローズ　102",
-      "",
-      "麻田さん　080-4012-4798"
     ],
     [
       "",
@@ -953,36 +744,6 @@
       "エスリード三宮フラワーロード　1506",
       "野村ホーム株式会社　078-521-5000",
       "鍵：1506ぼ集合ポストにキーボックス：0188\n鍵と部屋のタグが逆についてる"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "フリーダム武庫の里Ⅱ　306",
-      "大東建託",
-      "鍵　2961"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パル武庫川　B101",
-      "パナソニックホームズ",
-      "ガスメーター1518"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アコード水堂町(アコード　ミズドウチョウ)102",
-      "Robot　Home",
-      "オートロック:※1192呼現地階段手摺:0630"
     ],
     [
       "",
@@ -1023,16 +784,6 @@
       "ラ・ウェゾン湊川公園　702",
       "",
       "現地AL:呼呼5101　702のPS：水道メーター\nリフォーム業者共通キーなのでそこになかったらノックして入る"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "プリオーレ武庫之荘　203",
-      "リロケーション・ジャパン　3/11～内覧可",
-      "クレド　武庫之荘店に鍵有ります。"
     ],
     [
       "",
@@ -1082,46 +833,6 @@
       "",
       "シャロン灘　901",
       "東急住宅リース株式会社　運営本部関西支店　\n050-3177-4359　"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ヴィゴラス武庫之荘　102",
-      "",
-      "ダイアル　117"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ヤマヒサマンション大物　401",
-      "",
-      "現地よりTEL　06-6332-5538"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ガーデンプレス南武庫之荘　302",
-      "",
-      "現地よりTEL　06-6332-5538"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エスプレイスアーバンレジデンス　503",
-      "株式会社日本エスト　06-6265-0110",
-      "カギは、賃貸住宅サービス阪神尼崎店　06-6419-4146"
     ],
     [
       "",
