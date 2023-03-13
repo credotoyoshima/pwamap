@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J386",
+  "range": "'スポットデータ'!A1:J378",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -36,16 +36,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "メゾン・ド・ソレイユ三宮　302、303",
-      "",
-      "ＡＬ：ホームメイト神戸三宮店　090-2591-1985　担当新井\nMBに鍵"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.7556",
@@ -53,26 +43,6 @@
       "フジパレス塚口本町Ⅰ番館",
       "",
       "AL：＊0570呼\n南：5524\""
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "あゆみ六甲ハウス　　303",
-      "",
-      "玄関：1730"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ルネッサンス王子　601、",
-      "",
-      "玄関突き当りみぎAL:0009　玄関横水道メーター"
     ],
     [
       "",
@@ -86,16 +56,6 @@
     ],
     [
       "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ライオンズマンション神戸元町通　701",
-      "",
-      "ピタットハウス元町店に鍵\n078-392-2333"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.708572",
@@ -103,46 +63,6 @@
       "メゾン・ド・平岡２番館　403.101",
       "",
       "AL：ｃ6572左に回す→401ＰＳに鍵：5221"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "（仮称）神戸市中央区中山手通１丁目 ヘーベルメゾン（全部屋)",
-      "",
-      "外観＋外観パノラマのみ（5月完成予定）"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "Pista中山手通　202",
-      "",
-      "PS:8361"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "リオマール弐番館　202",
-      "",
-      "玄関：0868"
-    ],
-    [
-      "",
-      "撮影完了",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "眺港苑　503",
-      "",
-      "エントランス右PS　ダ：1090"
     ],
     [
       "",
@@ -1258,10 +1178,11 @@
       "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "アリビオ立花Ⅲ　601、1105",
-      "株式会社長谷工ライブネット　関西支社　06-6262-8450\n退去予定"
+      "34.735947",
+      "135.400101",
+      "アリビオ立花Ⅲ　601、1105､803､203",
+      "株式会社長谷工ライブネット　関西支社　06-6262-8450\n退去予定",
+      "803と203は､写真取れる！\nAL:呼2222※　ダ:1400"
     ],
     [
       "",
@@ -1410,13 +1331,21 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "ビオ立花　102",
+      "株式会社Robot Home　大阪支店　06-6226-7032\r\n退去予定　オートロック有:※1192呼"
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "",
+      "フレシール昭和通　409",
+      "株式会社ファーストステージ　賃貸管理部　06-6345-2727\r\n退去予定日、ご確認下さい"
     ],
     [
       "",
