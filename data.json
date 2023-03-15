@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J376",
+  "range": "'スポットデータ'!A1:J368",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -570,16 +570,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ＫＡＩＳＥＩ神戸海岸通　403",
-      "",
-      "案内用鍵：ピッたとハウス元町店　078-392-2333"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.690525",
@@ -667,15 +657,6 @@
       "シッタビスタ神戸下山手通　203",
       "ホームプランナー株式会社　078-382-3377",
       "ピったとハウス神戸三宮店に鍵"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "シャロン灘　901",
-      "東急住宅リース株式会社　運営本部関西支店　\n050-3177-4359　"
     ],
     [
       "",
@@ -932,26 +913,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "グランメゾン 106",
-      "2/25 退去予定",
-      "【旭化成】\n案内方法：AL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "ハイフィールド　203",
-      "2/23 退去予定",
-      "【旭化成】\n案内方法：AL 呼4123　ダイヤル1129or1106"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -987,15 +948,6 @@
       "コムーネ北野ＥＡＳＴ　402",
       "",
       "ピタットハウス元町店(078-392-2333)"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "パンブロス６　410",
-      "4/1入居可能"
     ],
     [
       "",
@@ -1063,15 +1015,6 @@
       "ラフィーネ芦屋大原　102.202.205\n【新築】",
       "積水ハウス不動産関西株式会社　神戸賃貸営業所　078-242-8441",
       "2023/03/03 ㈱リブマックスリーシング　ＪＲ芦屋駅前店  "
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "六甲ヒノキ　403",
-      "REALHOME　078-862-5678"
     ],
     [
       "",
@@ -1209,24 +1152,6 @@
     ],
     [
       "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "エステムコートみなと元町THE FIRST　1005",
-      "株式会社エステムプランニング　06-7660-1122"
-    ],
-    [
-      "",
-      "無物",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "",
-      "",
-      "レジディア神戸磯上　1506",
-      "株式会社長谷工ライブネット　関西支社　06-6262-8450"
-    ],
-    [
-      "",
       "写真撮影",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
@@ -1291,7 +1216,7 @@
       "",
       "アーデンタワー神戸元町　702、402",
       "株式会社長谷工ライブネット　関西支社　06-6262-8450",
-      "\r\nオートロック呼1027　ダイヤル8425　3月末退去予定"
+      "オートロック呼1027　ダイヤル8425　3月末退去予定"
     ],
     [
       "",
@@ -1472,8 +1397,13 @@
     ],
     [
       "",
+      "写真撮影",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "34.720791",
+      "135.442917",
+      "ルシエール寺島　103",
       "",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg"
+      "現地集合ポスト下メーター"
     ],
     [
       "",
