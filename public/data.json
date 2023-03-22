@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J2500",
+  "range": "'スポットデータ'!A1:J3491",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -270,28 +270,10 @@
       "",
       "撮影可",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.677849",
-      "135.173981",
-      "アドバンス神戸ラフィナート",
-      "301.502.604\n\nAL:※4146呼　部屋:PS\n3月退去予定"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.749573",
-      "135.387024",
-      "ＡＩＬＥ武庫之荘",
-      "304\n\nAL　2127呼\nPS内orダイヤル2127\n3月末退去予定"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.74548",
       "135.38681",
       "ヴィサージュ武庫之荘",
-      "301\n\nエイワーク南武庫之荘店に鍵あり\n06-6437-2020\nアーサホーム \n資材が散らかっていたり、洗面所がない為\n日を改めていきます"
+      "301\n\nエイワーク南武庫之荘店に鍵あり\n06-6437-2020\nアーサホーム"
     ],
     [
       "",
@@ -324,46 +306,10 @@
       "",
       "撮影可",
       "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.671623",
-      "135.168884",
-      "エクセル兵庫",
-      "101\n\nレインズ\n株式会社但馬商会　078-577-0012"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.718021",
-      "135.238037",
-      "パレ・ユート阪急六甲",
-      "3008\n\nレインズ\n神栄商事　078-811-1963"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "34.747429",
       "135.390717",
       "メゾン・ド・マキ",
       "303_304\n\nアパルトマンに鍵あり\nTEL:050-3186-4424\n住所:南武庫之荘１丁目20-2 竹島ビル4階\nアパルトマンエージェント株式会社　PM事業部  050-3186-4424"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.753078",
-      "135.445297",
-      "リブリ・東園田",
-      "101\n\n株式会社アーキテクトディベロッパー\n06-6630-8431　　3/22 退去予定\n外観・共用は撮影済\n"
-    ],
-    [
-      "",
-      "撮影可",
-      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
-      "34.739841",
-      "135.406174",
-      "レジデンスコート立花\n【新築】※撮影部屋全て　　",
-      "101_102_103\n\n内覧予定3/25\nジーエスホーム株式会社　06-6882-5156"
     ],
     [
       "",
@@ -660,7 +606,7 @@
       "34.689167",
       "135.184952",
       "ソレイユ・ド元町",
-      "201\n\nピタットハウス元町店様(078-392-2333)201\n東急住宅リース株式会社　運営本部関西支店　050-3177-4359　空室（レディースマンション）"
+      "201\n\nピタットハウス元町店(078-392-2333)\n東急住宅リース株式会社　運営本部関西支店　050-3177-4359　空室（レディースマンション）"
     ],
     [
       "",
@@ -2708,7 +2654,52 @@
     [
       "",
       "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "",
+      "\n\n\n"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "",
+      "\n\n\n"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "",
+      "\n\n\n"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
+      "",
+      "\n\n\n"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
+      "",
+      "",
       "",
+      "\n\n\n"
+    ],
+    [
+      "",
+      "",
+      "https://credotoyoshima.github.io/pwamap/logoB.jpg",
       "",
       "",
       "",
